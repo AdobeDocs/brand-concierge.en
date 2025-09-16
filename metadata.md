@@ -1,7 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
-product: experience cloud
+solution: Brand Concierge
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/brand-concierge.en
