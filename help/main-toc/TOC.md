@@ -7,7 +7,7 @@ user-guide-description: Explore Adobe Brand Concierge
 # Adobe Brand Concierge {#content}
 
 + [Brand Concierge](/help/home.md)
-+ [Getting Started]{#getting-started}
++ Getting Started{#getting-started}
   + [How it works](/help/getting-started/how-it-works.md)
 + Documentation{#documentation}
   + [Overview](/help/documentation/overview.md)
