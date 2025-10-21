@@ -50,13 +50,11 @@ Setting up Concierge
 
 * All configurations are editable post-setup for evolving brand needs.
 
-* MORE THINGS HERE
-
 ## Homepage {#homepage}
 
 The homepage serves as your central hub for Brand Concierge. Upon first log-in, it features a guided walkthrough to simplify setup. As you progress, it updates to show completion status, inspirational content, and quick links.
 
-### Key Elements {#key-elements}
+**Key elements**
 
 * **First-Time User Walkthrough**: A top banner with steps to set up your concierge (name/purpose, knowledge sources, skills, brand expression).
 
@@ -82,11 +80,11 @@ The homepage serves as your central hub for Brand Concierge. Upon first log-in, 
 
 * Progress saves automatically; incomplete setups won't block previews but may limit functionality.
 
-### Knowledge Sources Page {#knowledge-sources-page}
+### Knowledge Sources page {#knowledge-sources-page}
 
 This side-navigated page manages data sources that power your concierge's responses. It's accessible after uploading initial files and lists all created sources.
 
-**Key Elements**
+**Key elements**
 
 * **Source List**: Displays uploaded items (e.g., CSV files with website links) with status (processed/pending).
 
@@ -106,11 +104,11 @@ This side-navigated page manages data sources that power your concierge's respon
 
 1. Edit or delete sources as needed; reconnect to skills if changes occur.
 
-### Skills Configuration Page {#skills-configuration-page}
+### Skills Configuration page {#skills-configuration-page}
 
 Shape your concierge's expertise by configuring skills (e.g., product advisory). This page uses a questionnaire to gather inputs, which Adobe consultants use for prompt engineering.
 
-**Key Elements**
+**Key elements**
 
 * **Skill Selector**: Choose from available skills (e.g., Product Advisory for recommendations).
 
@@ -138,11 +136,11 @@ Shape your concierge's expertise by configuring skills (e.g., product advisory).
 
 1. Submit&mdash;consultants refine in the background.
 
-### Brand Expression Page {#brand-expression-page}
+### Brand Expression page {#brand-expression-page}
 
 Customize the personality and style of your concierge's responses. This page is accessible from setup or the preview sidebar for ongoing tweaks.
 
-**Key Elements**
+**Key elements**
 
 * **Voice and Tone Settings**: Drop-downs/sliders for options like "Friendly," "Professional," or "Energetic."
 
@@ -160,11 +158,11 @@ Customize the personality and style of your concierge's responses. This page is 
 
 1. Revisit via preview panel for A/B testing.
 
-### Preview Page {#preview-page}
+### Preview page {#preview-page}
 
 Test your concierge in a simulated conversation environment. This page allows real-time interaction and quick adjustments.
 
-**Key Elements**
+**Key elements**
 
 * **Conversation Interface**: Chat window for user inputs and concierge replies.
 
@@ -186,11 +184,11 @@ Test your concierge in a simulated conversation environment. This page allows re
 
 1. Switch views or exit to homepage.
 
-### Tester View {#tester-view}
+### Tester view {#tester-view}
 
 A dedicated mode within the preview for gathering feedback. Simulates end-user experience with rating tools.
 
-**Key Elements**
+**Key elements**
 
 * **Interaction Chat**: Same as preview, but with thumbs up/down after each response.
 
@@ -213,11 +211,11 @@ A dedicated mode within the preview for gathering feedback. Simulates end-user e
 
 1. Switch back to preview.
 
-### Feedback Tab {#feedback-tab}
+### Feedback tab {#feedback-tab}
 
 Post-testing, this tab on the homepage provides performance overviews and detailed reviews. Ideal for iteration.
 
-**Key Elements**
+**Key elements**
 
 * **Performance Snapshot**: Cards for total conversations, unique users, sentiment trends, engagement rate.
 
@@ -239,11 +237,11 @@ Post-testing, this tab on the homepage provides performance overviews and detail
 
 1. Export or note insights for refinements.
 
-### Configuration Tab {#configuration-tab}
+### Configuration tab {#configuration-tab}
 
 A read-only summary view (with edit links) of your concierge's full setup. Mirrors homepage post-setup.
 
-**Key Elements**
+**Key elements**
 
 * **Details Section**: Name, purpose, overall status.
 
