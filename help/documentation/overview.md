@@ -20,7 +20,7 @@ Brand Concierge is an AI-powered product discovery and engagement solution for b
 
 ## Features {#features}
 
-Setting up Concierge
+**Setting up Concierge**
 
 * **Guided Onboarding**: Step-by-step setup for knowledge, skills, and brand expression.
 
