@@ -8,10 +8,10 @@ user-guide-description: Explore Adobe Brand Concierge
 
 + [Brand Concierge](/help/home.md)
 + Getting Started{#getting-started}
-  + [How it works](/help/getting-started/how-it-works.md)
+  + [Create first concierge](/getting-started/create-first-concierge.mdh)
 + Documentation{#documentation}
-  + [Overview](/help/documentation/overview.md)
+  + [Overview](/documentation/overview.md)
   + B2B{#b2b}
-    + [Overview](/help/documentation/b2b/overview.md)
+    + [Overview](/documentation/b2b/overview.md)
   + B2C{#b2c}
-    + [Overview](/help/documentation/b2c/overview.md)
+    + [Overview](/documentation/b2c/overview.md)
