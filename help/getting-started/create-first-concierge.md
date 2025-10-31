@@ -1,7 +1,6 @@
 ---
 title: Getting started with Brand Concierge
 description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand’s voice.
-feature: Personalization,Customer Service,Integration
 topic: Personalization,Integrations
 role: User
 level: Beginner
