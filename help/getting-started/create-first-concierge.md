@@ -26,4 +26,4 @@ Learn how to set up your first Adobe Brand Concierge to help customers find the 
 * How to connect content sources for accurate responses
 * How to customize the brand voice and test the experience
 
->[!VIDEO](https://video.tv.adobe.com/v/3476425/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
