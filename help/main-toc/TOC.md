@@ -11,7 +11,3 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Create first concierge](../getting-started/create-first-concierge.md)
 + Documentation{#documentation}
   + [Overview](../documentation/overview.md)
-  + B2B{#b2b}
-    + [Overview](../documentation/b2b/overview.md)
-  + B2C{#b2c}
-    + [Overview](../documentation/b2c/overview.md)
