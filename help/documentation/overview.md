@@ -4,259 +4,330 @@ description: Learn about Adobe Brand Concierge, an AI-powered product discovery 
 ---
 # Adobe Brand Concierge overview
 
-Adobe Brand Concierge empowers you to create personalized, AI-driven conversational experiences that align with your brand's voice, knowledge, and goals.
+Brand Concierge is an AI-powered digital assistant for brand-owned digital properties that combines generative AI with your brand's content and customer data. Use Brand Concierge to find products, compare options, and get answers through natural conversation, delivering conversational and personalized experiences across consumer and business buyer journeys.
 
 ## Overview {#overview}
 
 Brand Concierge is an AI-powered product discovery and engagement solution for brand-owned digital properties. It helps brands deliver conversational, personalized experiences across both consumer and business buyer journeys, guiding visitors from exploration to decision.
 
-**Benefits**
+With Brand Concierge, you get AI-powered, multi-modal discovery experiences that guide you to the right products with personalized recommendations and easy-to-understand product comparisons. Conversations adapt in real-time to your needs and intent, providing contextual, continuous engagement no matter which channel you use. And when you need more help, Brand Concierge makes it simple to seamlessly connect with a live person or, for B2B scenarios, to schedule a meeting with a sales representative.
 
-* AI-powered, multimodal discovery experiences with guided recommendations and product comparisons
+## Key features {#key-features}
 
-* Conversational experiences that adapt in real time to customer intent, creating contextual and continuous engagement across channels
+Brand Concierge has a number of key features including:
 
-* Seamless AI-to-human transition, including escalation to a live person or booking a meeting with a sales representative for B2B
-
-## Features {#features}
-
-**Setting up Concierge**
-
-* **Guided Onboarding**: Step-by-step setup for knowledge, skills, and brand expression.
-
-* **Knowledge Integration**: Upload and manage sources like CSV files with website links.
-
-* **Skill Configuration**: Pre-built skills (e.g., product advisory)
-
-* **Brand Controls**: Adjustable voice, tone, and response length.
-
-* **Preview Mode**: Simulate conversations with live adjustments.
-
-* **Feedback System**: Thumbs up/down ratings with detailed forms across coverage, tone, quality, and features.
-
-* **Analytics Dashboard**: Powered by Customer Journey Analytics (CJA) for metrics like conversations, sentiment, and engagement.
+* **Guided onboarding:** Follow a step-by-step setup for knowledge, skills, and brand expression. 
+* **Knowledge integration:** Upload and manage sources like CSV files with website links. 
+* **Configure skills** Integrate skills such as product advisory. 
+* **Control branding:** Adjust the voice, tone, and response length to meet your particular brand's standard and approach.
+* **Preview and iterate:** Use a comprehensive preview interface to simulate conversations and conduct live adjustments. 
+* **Feedback system:** Use a feedback system that allows users to provide thumbs up or down ratings, along with detailed feedback forms covering response coverage, tone, quality, and features.
+* **Analytics dashboard:** Take advantage of an analytics dashboard powered by Customer Journey Analytics for metrics like conversations, sentiment, and engagement.
 
 ## Getting started {#getting-started}
 
-1. Access Brand Concierge via your Adobe Experience Cloud dashboard.
-
-1. Follow the first-time user walkthrough on the homepage.
-
-1. Complete setup: Name your concierge, add knowledge, configure skills, and set brand expression.
-
-1. Preview, test, and iterate based on feedback.
-
-**Things to know**
-
-* All configurations are editable post-setup for evolving brand needs.
+You can access Brand Concierge from the Adobe Experience Cloud dashboard. To get started, follow the first-time-user walkthrough on the Brand Concierge Homepage. Provide the name of your concierge, add your knowledge sources, configure the skills you want to use, and set your Brand Expression.
 
 ## Homepage {#homepage}
 
-The homepage serves as your central hub for Brand Concierge. Upon first log-in, it features a guided walkthrough to simplify setup. As you progress, it updates to show completion status, inspirational content, and quick links.
+The Brand Concierge Homepage is designed for ease of use and efficiency, guiding you through essential setup steps with a dedicated first-time user walkthrough. A prominent top banner outlines key actions such as specifying your concierge's name and purpose, adding knowledge sources, configuring relevant skills, and defining your brand expression. As you progress, a visual tracker clearly displays which setup components have been completed and highlights any remaining tasks. To further support your efforts, the Homepage features an inspirational section with videos and demonstrations of concierge capabilities, such as product recommendations. You also have quick access to Experience League documentation for more in-depth technical insights. Once setup is complete, a configuration summary provides a comprehensive view of your details, organized with tabs to facilitate ongoing adjustments and refinements.
 
 **Key elements**
 
 * **First-Time User Walkthrough**: A top banner with steps to set up your concierge (name/purpose, knowledge sources, skills, brand expression).
-
 * **Progress Tracker**: Visual indicators of completed vs. pending setup components. 
-
 * **Inspirational Section**: Videos and demos showcasing concierge capabilities (e.g., product recommendations).
-
 * **Documentation Links**: Quick access to Experience League resources for deeper tech insights.
-
 * **Configuration Summary**: Post-setup view of all details, with tabs for refinement.
 
-### Workflow {#workflow}
+**Workflow**
 
-1. Scroll to the walkthrough banner and click **Get Started**.
+1. To get started with the Homepage, navigate to the walkthrough banner and select **[!UICONTROL Get started]**. 
+2. Next, provide a name for your concierge and define its purpose (for example, "Recommend personalized products").
+3. Follow the guided steps to proceed.
+4. Once setup is complete, return to the Homepage to monitor or edit your concierge.
 
-1. Name your concierge and define its purpose (e.g., "Recommend personalized products").
+>[!TIP]
+>
+>Brand Concierge automatically saves your progress. An incomplete setup may limit functionality but will not block any attempts to preview.
 
-1. Proceed through linked steps (detailed in subsequent pages).
+### Knowledge Sources {#knowledge-sources}
 
-1. After setup, return here to monitor or edit.
+You can use Knowledge Sources to manage the data sources that power your concierge's answers. You can access Knowledge Sources once you upload your initial files. Knowledge Sources has a number of key elements to consider, such as:
 
-**Things to know**
+* **Source List:** The Source List displays all uploaded items, such as CSV files with website links, and indicates their status as either processed or pending.
+* **Upload Interface:** The Upload Interface allows you to drag and drop or browse for CSV files that contain URLs, which the system will crawl to extract knowledge.
+* **Connection Options:** The Connection Options enable you to link specific knowledge sources to relevant skills for more targeted use.
 
-* Progress saves automatically; incomplete setups won't block previews but may limit functionality.
+**Workflow** 
 
-### Knowledge Sources page {#knowledge-sources-page}
+1. From the Homepage, select **[!UICONTROL Add Knowledge Source]**.
+2. Next, upload a CSV file and ensure that it includes a column for website URLs.
+3. Allow for a few moments for processing. This step resolves fairly quickly as status updates in real-time.  
+4. Once added, return to the Homepage. By this point, you should see the new source added to the Homepage.
+5. Use the Homepage to edit or delete your knowledge sources as needed. You can also reconnect a knowledge source if any changes occur.
 
-This side-navigated page manages data sources that power your concierge's responses. It's accessible after uploading initial files and lists all created sources.
+### Skills Configuration {#skills-configuration}
 
-**Key elements**
+Use the Skills Configuration interface to shape your concierge's expertise by configuring skills like **Product Advisory**. Answer the questionnaire to provide inputs that Adobe consultants will later use for prompt engineering. Skills Configuration has a number of key elements to consider, such as:
 
-* **Source List**: Displays uploaded items (e.g., CSV files with website links) with status (processed/pending).
-
-* **Upload Interface**: Drag-and-drop or browse for CSV files containing URLs to crawl for knowledge.
-
-* **Connection Options**: Link sources to specific skills for targeted use.
+* **Skill Selector:** You can choose from available skills, such as Product Advisory for making product recommendations.
+* **Questionnaire:** You will complete a series of prompts to provide product knowledge, business rules, keywords to avoid, and source connections.
+* **Preview:** You have the option to make live tweaks and see how your adjustments impact responses, with links to the preview page.
+* **Enable Meeting Booking:** You can enable visitors to schedule meetings directly with business representatives.
 
 **Workflow**
 
-1. From the homepage, select **Add Knowledge Source**.
+1. Navigate to the progress tracker in the Homepage and select **[!UICONTROL Configure Skills]**.
+2. Select a skill (for example, Product Advisory).
+3. Answer the ensuing configuration questions. (Question examples include: "What should the concierge know about products?", "What business rules should be followed?", "Which keywords should be avoided")
+4. Connect relevant knowledge sources.
+5. Enable additional features (meeting booking).
+6. Submit for processing.
 
-1. Upload a CSV file (format: one column for website URLs).
+### Brand Expression {#brand-expression}
 
-1. Wait for processing (typically quick, status updates in real-time).
+You can use the Brand Expression interface to customize the personality and style of your concierge's responses. You can access Brand Expression from the setup stages or through the preview sidebar for ongoing changes.
 
-1. Once added, return to homepage&mdash;the source appears here for management.
-
-1. Edit or delete sources as needed; reconnect to skills if changes occur.
-
-### Skills Configuration page {#skills-configuration-page}
-
-Shape your concierge's expertise by configuring skills (e.g., product advisory). This page uses a questionnaire to gather inputs, which Adobe consultants use for prompt engineering.
-
-**Key elements**
-
-* **Skill Selector**: Choose from available skills (e.g., Product Advisory for recommendations).
-
-* **Questionnaire**: Series of prompts for product knowledge, business rules, avoid keywords, and source connections.
-
-* **Preview Pane**: Optional live tweaks to see response impacts (links to preview page).
-
-* **Enable Meeting Booking**: Enable visitor to schedule a meeting directly with business representatives
+With Brand Expression, you can use sliders to customize your concierge's voice and tone settings. You can select from options such as "Friendly", "Professional", and "Energetic". Additionally, you can configure response lengths to your liking. You can set your concierge to return short, medium, or long outputs, depending on your brand's vision.
 
 **Workflow**
 
-1. From homepage progress tracker, click **Configure Skills**.
+1. From the Homepage, select **[!UICONTROL Brand Expression]**.
+2. Next, configure your brand's voice, tone, and preferred response length.
+3. Select **[!UICONTROL Save]** to ensure that the changes are reflected in future responses.
 
-1. Select a skill (e.g., Product Advisory).
+### Preview and test {#preview-and-test}
 
-1. Answer questions:
+Test your concierge before launching to customers using the Preview and Tester View modes.
 
-   * What should the concierge know about products? (e.g., features, pricing). 
-   * Business rules? (e.g., "Prioritize eco-friendly options").
-   * Keywords to avoid? (e.g., "out of stock").
+>[!BEGINTABS]
 
-1. Connect relevant knowledge sources.
+>[!TAB Preview mode]
 
-1. Enable meeting booking by clicking add and define the activation rules (e.g., intents for which book a meeting option to be scheduled).
+Use the Preview mode to simulate conversations while making real-time adjustments.
 
-1. Submit&mdash;consultants refine in the background.
+1. After your setup, navigate back to the Homepage and select **[!UICONTROL Preview]**.
+2. Use the chat interface to input your query (for example, "Recommend a laptop under $1000).
+3. Review concierge responses.
+4. Use the right-hand panel to adjust your brand expression settings.
+5. Select **[!UICONTROL Share]** to generate link for team feedback.
 
-### Brand Expression page {#brand-expression-page}
+>[!TAB Tester view]
 
-Customize the personality and style of your concierge's responses. This page is accessible from setup or the preview sidebar for ongoing tweaks.
+Use the Tester view to gather structured feedback on concierge performance and simulate the end-user experience.
 
-**Key elements**
+1. From preview, select **[!UICONTROL Tester View]**.
+2. Use the Tester view to simulate end-user conversations.
+3. Use the thumbs up and down mechanism to rate each response that you receive.
+4. Complete feedback form for thumbs down:
+   **Response coverage:** Did it address the intent?
+   **Brand tone:** Aligned with personality?
+   **Response quality:** Clear and structured?
+   **Response features:** Helpful follow-ups?
+5. Add comments and specific observations.
+6. Submit feedback for dashboard review.
 
-* **Voice and Tone Settings**: Drop-downs/sliders for options like "Friendly," "Professional," or "Energetic."
+>[!ENDTABS]
 
-* **Response Length**: Slider for short/medium/long outputs.
+### Feedback {#feedback}
 
-* **Update Button**: Applies changes instantly in previews.
+After testing, you can use the feedback tab in the Homepage to provide feedback and detailed reviews. 
 
-**Workflow**
+The feedback section provides several important features to help you monitor and evaluate your Brand Concierge's performance. The following elements are available:
 
-1. From homepage, select **Brand Expression**.
-
-1. Set voice (e.g., "Conversational"), tone (e.g., "Empathetic"), and length (e.g., "Concise").
-
-1. Save&mdash;changes reflect in all future responses.
-
-1. Revisit via preview panel for A/B testing.
-
-### Preview page {#preview-page}
-
-Test your concierge in a simulated conversation environment. This page allows real-time interaction and quick adjustments.
-
-**Key elements**
-
-* **Conversation Interface**: Chat window for user inputs and concierge replies.
-
-* **Right-Hand Panel**: Collapsible access to brand expression settings (voice, tone, length).
-
-* **Share Button**: In header, generates a link for team feedback.
-
-* **Switch to Tester View**: Toggle for end-user simulation.
+* **Performance Snapshot:** Displays cards summarizing key metrics, including total conversations, unique users, sentiment trends, and engagement rate.
+* **View Report Button:** Allows you to open a dashboard powered by Customer Journey Analytics for in-depth access to advanced analytics and performance metrics.
+* **Feedback List:** Presents a table of feedback sessions. You can click on individual rows to view the full chat transcript for each session.
+* **Feedback Panel:** Shows rating cards on the right side of the interface. Hovering over or clicking these cards will highlight the relevant portions of the chat transcript for easy reference.
 
 **Workflow**
 
-1. From homepage, click **Preview** after setup.
+1. Navigate to the Brand Concierge Homepage and select **[!UICONTROL Feedback]**.
+2. Use the provided snapshot to view information on high-level trends.
+3. To access a deep dive powered by Customer Journey Analytics, select **[!UICONTROL View Report]**.
+4. You can also inspect the panel for additional connected feedback.
+5. When finished, you can export the insights to use later and refine your workflow.
 
-1. Start typing queries (e.g., "Recommend a laptop under $1000").
+### Configurations {#configurations}
 
-1. Adjust settings in the panel&mdash;see instant updates in the chat.
+The *[!UICONTROL Configurations]* tab is a read-only summary view that you can use to review your concierge's full setup. This directly mirrors the Homepage after completion of the initial setup and provides summaries of your details, knowledge sources, skills, and configured Brand Expression. You can use this feature as a reference prior to previewing or sharing your concierge.
 
-1. Use share to send preview link.
+## What you can do with Brand Concierge
 
-1. Switch views or exit to homepage.
+### Customer features
 
-### Tester view {#tester-view}
+Brand Concierge offers a conversational interface that lets customers find products, compare options, and get answers using natural language. With personalized recommendations, rich product comparisons, and the ability to escalate to a live agent, customers enjoy a seamless, intuitive experience. Interaction is flexible - customers can use text, voice, or images—and every answer is based on your brand's trusted documentation and customer context. 
 
-A dedicated mode within the preview for gathering feedback. Simulates end-user experience with rating tools.
+* Ask questions in natural language and get personalized recommendations.
+* Compare products side-by-side with visual displays.
+* Get answers sourced from your brand documentation.
+* Switch to a live agent with full conversation history.
 
-**Key elements**
+### Business capabilities
 
-* **Interaction Chat**: Same as preview, but with thumbs up/down after each response.
+Brand Concierge empowers businesses with advanced conversational AI capabilities for customer engagement. It helps brands drive conversion by guiding customers to the right products, reduces support costs through instant, accurate answers, and ensures consistent brand voice and compliance. With robust analytics, seamless AI-to-human handoff, and deep Adobe integrations, Brand Concierge optimizes both customer experience and business performance.
 
-* **Feedback Form**: Triggered by thumbs down/up; four categories with yes/no and comments.
+* Guide customers to the right products to increase conversion.
+* Reduce support costs with instant, accurate answers.
+* Control brand voice, tone, and compliance requirements.
+* Track performance with Customer Journey Analytics dashboard.
+* Enable seamless AI-to-human handoff including meeting scheduling.
+* Integrate with Adobe Experience Platform, Commerce, and Experience Manager.
 
-    * Response Coverage and Correctness: Did it address intent?
-    * Brand Tone: Aligned with personality?
-    * Response Quality: Clear and structured?
-    * Response Feature Feedback: Helpful follow-ups?
+## Use cases
 
-**Workflow**
+Brand Concierge supports both B2C and B2B use cases across multiple industries.
 
-1. From preview, switch to **Tester View**.
+| Industry | Use cases |
+|---|---|
+| Retail and e-commerce | Customers can discover products and receive personalized recommendations. Brand Concierge provides guidance on sizing and fit, helps users find suitable gifts, and matches styles or preferences based on customer input. |
+| B2B sales | Brand Concierge guides customers through product evaluations, offers detailed feature and pricing comparisons, assists with scheduling sales meetings, and provides industry-specific recommendations tailored to business clients. |
+| Customer support | Users can receive instant answers sourced directly from the knowledge base. Brand Concierge supplies information on policies and procedures, helps troubleshoot issues, and provides updates on order status and tracking. |
+| Travel and hospitality | Customers receive personalized destination recommendations, assistance with planning itineraries, support throughout the booking process, and answers to travel policy questions. |
+| Financial services | Brand Concierge offers product comparisons to help customers choose the right financial solutions, provides account information, delivers compliance-aware guidance, and enables meeting scheduling with financial advisors. |
 
-1. Converse and rate responses (thumbs up/down).
+## Frequently asked questions
 
-1. For down, fill form categories and add comments.
+Read this section for answers to frequently asked questions regarding Brand Concierge.
 
-1. Submit&mdash;feedback routes to marketer's dashboard.
+### General
 
-1. Switch back to preview.
+#### How is Brand Concierge different from chatbots?
 
-### Feedback tab {#feedback-tab}
+Brand Concierge stands apart from traditional chatbots by leveraging generative AI that is specifically trained on your organization's content and customer data, rather than relying on scripted answers or generic web results. This enables the assistant to provide personalized responses informed by individual customer behavior, deeply integrate with your Adobe tools and data, continuously learn from each interaction, and accurately interpret customer intent beyond basic keyword matching.
 
-Post-testing, this tab on the homepage provides performance overviews and detailed reviews. Ideal for iteration.
+#### Can I use Brand Concierge for both B2C and B2B?
 
-**Key elements**
+Yes. Use cases include:
 
-* **Performance Snapshot**: Cards for total conversations, unique users, sentiment trends, engagement rate.
+* **B2C:** Product discovery, shopping assistance, customer support, personalized recommendations.
+* **B2B:** Guided evaluations, feature comparisons, meeting scheduling, sales representative routing, consultation booking.
 
-* **View Report Button**: Opens CJA-powered dashboard with advanced metrics.
+#### What industries can use Brand Concierge?
 
-* **Feedback List**: Table of sessions; click rows for full chat transcript.
+Brand Concierge can be used across a wide range of industries, including retail and e-commerce, travel and hospitality, financial services, healthcare (with compliance controls), media and entertainment, and technology and software. Essentially, any industry that helps customers find information and make decisions can benefit from implementing Brand Concierge.
 
-* **Feedback Panel**: Right-side cards for ratings; hover/click highlights chat references.
+### Data and privacy
 
-**Workflow**
+#### Is customer data safe?
 
-1. From homepage, select **Feedback** tab.
+Yes. Brand Concierge ensures customer data is safe by adhering to GDPR and CCPA compliance, processing data on Adobe's secure infrastructure, providing you with control over data usage, and safeguarding conversations through encryption and audit logging.
 
-1. Review snapshot for high-level trends.
+All conversations happen on your properties, not third-party servers.
 
-1. Click **View Report** for CJA deep dive.
+#### What data sources can I connect?
 
-1. Browse list: Select a row to load chat; inspect panel for connected feedback.
+You can connect the following types of data sources to Brand Concierge:
 
-1. Export or note insights for refinements.
+| Data Source Type | Available Sources/Details |
+|------------------|---------------------------|
+| **Product and content** | Product catalogs<br>Inventory systems<br>Knowledge bases and documentation<br>Website content via CSV URL upload<br>Adobe Experience Manager content<br>Adobe Commerce data |
+| **Customer data** | Adobe Experience Platform profiles<br>Adobe Analytics behavior data<br>First-party customer attributes<br>Third-party APIs (configured) |
+| **CSV file format** | One column containing website URLs<br>Brand Concierge crawls URLs and extracts content automatically<br>Processing status updates in real-time<br>Multiple CSV files can be uploaded for different content areas |
 
-### Configuration tab {#configuration-tab}
+All data follows your governance rules.
 
-A read-only summary view (with edit links) of your concierge's full setup. Mirrors homepage post-setup.
+#### Can customers opt out of personalization?
 
-**Key elements**
+Yes. Customers who opt out receive helpful responses without behavioral personalization. You configure opt-out handling to match your privacy policies.
 
-* **Details Section**: Name, purpose, overall status.
+### Configuration and control
 
-* **Knowledge Sources**: List with links to universal page.
+#### How do I control brand voice?
 
-* **Skills**: Configured items with edit buttons.
+You can control your brand voice directly in the UI by configuring elements such as tone (ranging from formal to casual), language (from simple to technical), and personality (for example, helpful, enthusiastic, or professional). Additionally, you can define response patterns using templates and examples, and establish guardrails to enforce compliance rules and boundaries. Begin with Adobe's reference prompts and tailor these settings to reflect your brand's unique identity.
 
-* **Brand Expression**: Current settings summary.
+#### What happens when Brand Concierge can't answer a question?
 
-**Workflow**
+You can configure fallback behaviors to determine how Brand Concierge responds when it cannot answer a question. Options include displaying a graceful "I can't help with that" message, suggesting alternative questions, linking to self-service resources, or automatically escalating the inquiry to a human agent. Choose what works best for your brand.
 
-1. From homepage, stay on **Configuration** tab (default post-setup).
+#### Can I customize the visual design?
 
-1. Scan sections for completeness.
+Yes. Customize all visual elements, including:
 
-1. Click edit icons to jump to relevant pages (e.g., _skills_).
+* Colors and branding
+* Fonts and typography
+* Button styles
+* Widget positioning
+* Card layouts
+* Response formatting
 
-1. Use as a reference before previews or shares.
+SDKs provide default components and full customization options.
+
+#### How long does setup take?
+
+The length of setup can depend on your type of implementation. A basic implementation that includes an existing product catalog, standard FAQ content, and default settings can take around 3-5 days to setup. On the other hand, advanced implementations with custom integrations, extensive personalization, complex workflows, and custom compliance rules can take around 2-4 weeks to complete.
+
+#### How does the preview and testing work?
+
+Brand Concierge includes built-in testing tools:
+
+| Testing Tool | Features |
+|--------------|----------|
+| **Preview mode** | Simulate customer conversations<br>Adjust settings in real-time<br>See changes instantly<br>Share preview links with your team |
+| **Tester View** | Rate responses with thumbs up/down<br>Provide structured feedback across 4 categories<br>Add detailed comments<br>Track feedback in dashboard |
+
+All testing happens before you deploy to customers.
+
+#### Can customers schedule meetings with our team?
+
+Yes, customers can schedule meetings with your team using the Meeting Booking skill. To enable this feature, activate the skill in Skills Configuration, define activation intents (such as "speak with sales"), connect your calendar or scheduling system, and set your availability and meeting types. Once configured, customers can request meetings during conversations, and Brand Concierge will facilitate the scheduling process without requiring them to leave the chat.
+
+#### Who handles the prompt engineering?
+
+Adobe consultants handle prompt engineering in the background:
+
+1. You answer configuration questions in the Skills page.
+2. Provide product knowledge, business rules, and avoid keywords.
+3. Submit your inputs.
+4. Adobe consultants use your answers to engineer optimized prompts.
+5. Changes reflect in your concierge automatically.
+
+This ensures your concierge uses best-practice AI prompt patterns while maintaining your specific brand requirements.
+
+### Performance and analytics
+
+#### How do I measure success?
+
+You cane measure success using the Brand Concierge dashboard. Use the dashboard to track metrics such as:
+
+| Metric | What It Tracks |
+|--------|----------------|
+| **Engagement** | Conversation volume, session length |
+| **Satisfaction** | Sentiment scores, feedback ratings |
+| **Conversion** | Purchase rates for assisted vs. unassisted |
+| **Topics** | Most common questions and requests |
+| **Handoff** | Escalation rates and reasons |
+| **Performance** | Response accuracy, resolution time |
+
+You can also integrate with Adobe Analytics for deeper analysis.
+
+#### What should I do if sentiment drops?
+
+If you notice a drop in sentiment, investigate the underlying causes by reviewing recent failed queries, checking for content gaps, analyzing negative feedback, testing for appropriate tone, and verifying any technical issues. Once the root causes are identified, promptly address them and continue to monitor for improvement.
+
+### Integration and technical
+
+#### Do I need other Adobe products?
+
+No, but they enhance performance:
+
+| Integration Option | Capabilities |
+|-------------------|--------------|
+| **Standalone** | Works with your product catalog and content |
+| **With Adobe Experience Platform** | Unified customer profiles<br>Advanced personalization<br>Cross-channel consistency |
+| **With Adobe Commerce** | Real-time inventory<br>Order history<br>Cart integration |
+| **With Adobe Experience Manager** | Content management<br>Dynamic updates<br>Multi-site support |
+
+#### What if my site isn't on Adobe?
+
+Brand Concierge works with any platform. The JavaScript SDK integrates with any website, and mobile SDKs work with any app backend.
+
+#### How does agent handoff work?
+
+When agent handoff is triggered, Brand Concierge transfers the full conversation history, customer profile and ID, identified intent, details of products discussed, and any resolution attempts to the agent. This ensures that agents have complete context and can continue the conversation seamlessly, without requiring customers to repeat information.
+
+#### Can I support multiple languages?
+
+Yes. Configure language support per assistant based on your customer base. Brand Concierge detects customer language and responds accordingly.
