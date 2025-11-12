@@ -4,7 +4,7 @@ solution: Brand Concierge
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/brand-concierge.en
-hide: yes
+index: true
 ---
 
 # Metadata for internal use
