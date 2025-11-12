@@ -11,7 +11,7 @@ Adobe Brand Concierge is an AI-powered digital companion that transforms the way
 
 ## How It Works
 
-At its core, Brand Concierge leverages large language models (LLMs) and integrates with Adobe’s digital experience stack (such as Adobe Experience Manager and Adobe Experience Platform) to provide real-time, context-aware conversations. It draws on approved brand content, product catalogs, and other trusted sources, ensuring that all information is brand-safe and up-to-date.
+Brand Concierge uses advanced AI and connects with Adobe tools to offer helpful, real-time conversations tailored to each visitor. It draws on approved brand content, product catalogs, and other trusted sources, ensuring that all information is brand-safe and up-to-date.
 
 * Conversational Journey: Visitors interact via natural text or voice, asking questions, receiving visual product comparisons, and exploring tailored recommendations.
 * Personalization: The platform adapts its responses using customer signals, previous interactions, and behavioral data (with full respect for privacy and compliance).
@@ -23,9 +23,9 @@ At its core, Brand Concierge leverages large language models (LLMs) and integrat
 
 Adobe Brand Concierge stands apart from traditional chatbots and third-party assistants in several ways:
 
-* Brand-Safe, Trustworthy AI: Unlike generic conversational AI, Brand Concierge only surfaces answers and recommendations based on your verified content—never “hallucinating” or relying on unapproved sources. Marketers have full control over tone, messaging, and compliance guardrails.
+* Brand-Safe, Trustworthy AI: Unlike generic conversational AI, Brand Concierge only surfaces answers and recommendations based on your verified content. Marketers have full control over tone, messaging, and compliance guardrails.
 * Increased Conversion and Loyalty: By meeting visitors with instant, relevant, and personalized responses (instead of static search or FAQ pages), Brand Concierge accelerates decision-making, boosts conversions, and keeps users engaged on your owned properties.
-* Seamless Human Handoff: When a question requires a live touch, Brand Concierge can hand off the conversation (with context) to a sales or support agent—ensuring continuity and a smooth customer experience.
+* Upcoming feature - Seamless Human Handoff: When a question requires a live touch, Brand Concierge can hand off the conversation (with context) to a sales or support agent—ensuring continuity and a smooth customer experience.
 * Continuous Learning & Improvement: Each interaction enriches customer profiles and provides actionable insights. Marketers and site owners can see what customers are asking, gather feedback, and optimize flows—all without needing developers.
 * Flexible Deployment, Fast Time to Value: Easily add Brand Concierge as a widget or embed it via SDK across your site or app. Deep Adobe integrations enable rapid setup for brands working with AEM, AEP, or Commerce, but it also works without them.
 
