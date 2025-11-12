@@ -1,6 +1,6 @@
 ---
-title: Getting started with Brand Concierge
-description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand’s voice.
+title: Get started with Brand Concierge
+description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand's voice.
 topic: Personalization,Integrations
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ last-substantial-update: 2025-10-31
 jira: KT-19504
 ---
 
-# Create first concierge
+# Create your first concierge
 
-Learn how to set up your first Adobe Brand Concierge to help customers find the right Adobe products, services or experiences. You learn how to name your concierge, add helpful content, choose how it responds, and match its voice to your brand. Once it’s ready, you can test it and see how it works on desktop and mobile. 
+Learn how to set up your first Adobe Brand Concierge to help customers find the right Adobe products, services, or experiences. You learn how to name your concierge, add helpful content, choose how it responds, and match its voice to your brand. Once it's ready, you can test it and see how it works on desktop and mobile. 
 
 ## Who is this video for?
 
@@ -20,7 +20,7 @@ Learn how to set up your first Adobe Brand Concierge to help customers find the 
 * Marketing Technologist
 * Customer Experience Designer
 
-## Video Content
+## Video content
 
 * How to set up an Adobe Brand Concierge
 * How to connect content sources for accurate responses
