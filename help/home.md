@@ -22,6 +22,7 @@ Brand Concierge uses advanced AI and connects with Adobe tools to offer helpful,
 
 Adobe Brand Concierge stands apart from traditional chatbots and third-party assistants in several ways:
 
+* Brand-Safe, Trustworthy AI: Unlike generic conversational AI, Brand Concierge only surfaces answers and recommendations based on your verified content. Marketers have full control over tone, messaging, and compliance guardrails.
 * Increased Conversion and Loyalty: By meeting visitors with instant, relevant, and personalized responses (instead of static search or FAQ pages), Brand Concierge accelerates decision-making, boosts conversions, and keeps users engaged on your owned properties.
 * Coming soon - Seamless Human Handoff: When a question requires a live touch, Brand Concierge can hand off the conversation (with context) to a sales or support agent—ensuring continuity and a smooth customer experience.
 * Continuous Learning & Improvement: Each interaction enriches customer profiles and provides actionable insights. Marketers and site owners can see what customers are asking, gather feedback, and optimize flows—all without needing developers.
