@@ -19,7 +19,7 @@ Brand Concierge uses advanced AI and connects with Adobe tools to offer helpful,
 * **Brand control and governance:** Marketers have easy, low-code tools to configure agent behavior, messaging, and workflow logic, keeping brand tone and safety front and center.
 * **Analytics and optimization:** Built-in dashboards provide visibility into engagement, feedback, and conversion metrics, enabling continual experience refinement.
 
-## Why it's beneficial for website owners
+## How Brand Concierge benefits for website owners
 
 Brand Concierge stands apart from traditional chatbots and third-party assistants in several ways:
 
