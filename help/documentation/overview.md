@@ -173,7 +173,7 @@ Brand Concierge empowers businesses with advanced conversational AI capabilities
 * Control brand voice, tone, and compliance requirements.
 * Track performance with Customer Journey Analytics dashboard.
 * Enable seamless AI-to-human handoff including meeting scheduling.
-* Integrate with Adobe Experience Platform, Commerce, and Experience Manager.
+* Integrate with Adobe Experience Platform, and Experience Manager.
 
 ## Use cases
 
@@ -290,7 +290,7 @@ This ensures your concierge uses best-practice AI prompt patterns while maintain
 
 #### How do I measure success?
 
-You cane measure success using the Brand Concierge dashboard. Use the dashboard to track metrics such as:
+You can measure success using the Brand Concierge dashboard. Use the dashboard to track metrics such as:
 
 | Metric | What It Tracks |
 |--------|----------------|
