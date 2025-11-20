@@ -38,11 +38,11 @@ Connect to your Outlook or Google account and determine various settings such as
 
    ![](assets/meetings-availability-1.png)
 
-1. Choose your desired settings. In this example we're choosing _Meeting Durations_ of 30 minutes with a 15-minute _Buffer Time_ and a _Minimum Notice_ of 2 hours. Our availability is set to Monday through Friday, 8 a.m - 5 p.m. PST, with a one-hour break at noon. Click **Save** when done.
+1. Choose your desired settings. In this example, we're choosing _Meeting Durations_ of 30 minutes with a 15-minute _Buffer Time_ and a _Minimum Notice_ of 2 hours. Our availability is set to Monday through Friday, 8 a.m - 5 p.m. PST, with a one-hour break at noon. Click **Save** when done.
 
 >[!NOTE]
 >
->To add more time options simply click the plus sign icon (![](assets/icon-plus-sign.png)).
+>To add more time options, simply click the plus sign icon (![](assets/icon-plus-sign.png)).
 
    ![](assets/meetings-availability-2.png)
 
