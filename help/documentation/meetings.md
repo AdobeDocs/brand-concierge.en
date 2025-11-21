@@ -1,8 +1,6 @@
 ---
 title: Meetings in Adobe Brand Concierge
 description: Learn how to set up and configure meetings in Adobe Brand Concierge.
-hide: yes
-hidefromtoc: yes
 ---
 # Meetings {#meetings}
 
