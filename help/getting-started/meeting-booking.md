@@ -1,6 +1,6 @@
 ---
 title: Getting started with meeting booking
-description: Learn how book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports
+description: Learn how to book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports
 topic: Artificial Intelligence,Personalization
 role: Admin, User
 level: Beginner
@@ -17,7 +17,7 @@ Learn about the booking a meeting capability found in Adobe Brand Concierge. In 
 ## Who is this video for?
 
 * Digital Marketing Manager
-* Customer Experience (CX) Lead
+* Customer Experience Lead
 * E-commerce or Web Operations Manager
 
 ## Video Content
