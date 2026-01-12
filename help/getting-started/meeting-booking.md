@@ -1,5 +1,5 @@
 ---
-title: Getting started with meeting booking
+title: Book a Meeting
 description: Learn how to book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -10,7 +10,7 @@ last-substantial-update: 2026-01-06
 jira: KT-19622
 ---
 
-# Booking a meeting
+# Book a meeting
 
 Learn about the booking a meeting capability found in Adobe Brand Concierge. In this video tutorial topics covered are what the customer facing experience can look like, admin configuration for connecting a calendar, and a look at some dashboards and reports.
 
