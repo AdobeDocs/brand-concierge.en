@@ -6,7 +6,9 @@ role: User,Admin
 ---
 # Meetings {#meetings}
 
-Get to know all of your _Meeting_ settings in Adobe Brand Concierge. Connect your calendar, set availability, view analytics, and more.
+Get to know all of your _Meeting_ settings in Adobe Brand Concierge. Connect your calendar, set availability, view analytics, and more. 
+
+Related: [Book a meeting](../getting-started/meeting-booking.md) video
 
 ## Configuration {#configuration}
 
