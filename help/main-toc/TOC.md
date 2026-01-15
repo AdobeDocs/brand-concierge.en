@@ -11,6 +11,6 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Create a concierge](../getting-started/create-first-concierge.md)
   + [Book a meeting](../getting-started/meeting-booking.md)
 + Documentation{#documentation}
-  + [Concierge help](../documentation/overview.md)
+  + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
   + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
