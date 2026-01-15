@@ -1,5 +1,5 @@
 ---
-title: Get started with Brand Concierge
+title: Create a Concierge Video
 description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand's voice.
 topic: Personalization,Integrations
 role: User
@@ -27,3 +27,5 @@ Learn how to set up your first Adobe Brand Concierge to help customers find the 
 * How to customize the brand voice and test the experience
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+For documentation, see [Brand Concierge help](../documentation/overview.md).

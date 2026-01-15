@@ -1,6 +1,8 @@
 ---
-title: Meetings in Adobe Brand Concierge
+title: Set Up and Configure Meetings
 description: Learn how to set up and configure meetings in Adobe Brand Concierge.
+level: Beginner
+role: User,Admin
 ---
 # Meetings {#meetings}
 
@@ -18,31 +20,41 @@ Connect to your Outlook or Google account and determine various settings such as
 
    ![Adobe Experience Platform homepage](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Under _Configuration_, click **[!UICONTROL Representative settings]**. In the _[!UICONTROL Calendar configuration]_ tab, choose your desired calendar. In this example, we're selecting **[!UICONTROL Outlook]**.
+1. Under _Configuration_, click **[!UICONTROL Representative settings]**.
 
    ![Calendar configuration page](assets/meetings-connect-2.png)
+
+   In the _[!UICONTROL Calendar configuration]_ tab, choose your desired calendar. In this example, you are selecting **[!UICONTROL Outlook]**.
 
 1. Choose an already signed-in account, or add a new one.
 
    ![Microsoft pick an account modal](assets/meetings-connect-3.png)
 
-1. When the connection is complete, set your desired email content that is sent to the recipient when they book a meeting with you. You can also include a Microsoft Teams meeting link (optional). Click **[!UICONTROL Save]** when done.
+1. After the connection is complete, specify your desired email content. 
+
+   This is the content that is sent to the recipient when they book a meeting with you. You can also include a Microsoft Teams meeting link (optional). 
 
    ![Meeting confirmation email details](assets/meetings-connect-4.png)
 
+1. Click **[!UICONTROL Save]**.
+
 ### Set calendar availability {#availability}
 
-1. Select the **[!UICONTROL Calendar availability]** tab.
+1. Click the **[!UICONTROL Calendar availability]** tab.
 
    ![Blank Calendar availability page](assets/meetings-availability-1.png)
 
-1. Choose your desired settings. In this example, we're choosing _[!UICONTROL Meeting Durations]_ of 30 minutes with a 15-minute _[!UICONTROL Buffer Time]_ and a _[!UICONTROL Minimum Notice]_ of 2 hours. Our availability is set to Monday through Friday, 8 a.m - 5 p.m. PST, with a one-hour break at noon. Click **[!UICONTROL Save]** when done.
+1. Choose your desired settings. 
 
->[!NOTE]
->
->To add more time options, simply click the plus sign icon (![plus sign icon](assets/icon-plus-sign.png)).
+   In this example, you are choosing **[!UICONTROL Meeting Durations]** of 30 minutes with a 15-minute **[!UICONTROL Buffer Time]** and a **[!UICONTROL Minimum Notice]** of 2 hours. Availability is set to Monday through Friday, 8 a.m - 5 p.m. PST, with a one-hour break at noon.
+
+   >[!NOTE]
+   >
+   >To add more time options, click the plus sign (![plus sign icon](assets/icon-plus-sign.png)).
 
    ![Calendar availability page with all fields filled out](assets/meetings-availability-2.png)
+
+1. Click **[!UICONTROL Save]**.
 
 ### Representative management {#representative}
 
@@ -52,16 +64,16 @@ Connect to your Outlook or Google account and determine various settings such as
 
 ## Activities {#activities}
 
-### Meeting bookings {#bookings}
+Click **[!UICONTROL Meeting bookings]** to review meetings that have been booked, see what information has been captured, learn when the meeting was scheduled, and more.
 
-Review meetings that have been booked, what information has been captured, when the meeting was scheduled, and more.
+### Meeting page {#bookings}
 
-   ![Meeting bookings page](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![Meeting bookings page](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
-### Meeting performance {#performance}
+Click **[!UICONTROL Meeting performance]** to review several different analytics categories, including how many visitors have requested meetings and how many have been missed. You can see what has been the trend of the meetings, who are the representatives who took the meetings, and so much more.
 
-In _[!UICONTROL Meeting performance]_, review several different analytics categories, including how many visitors have requested meetings, how many have been missed, what has been the trend of the meetings, who are the representatives who took the meetings, and so much more.
+### Meetings page {#performance}
 
-   ![Meeting performance page](assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Meeting performance page](assets/meetings-performance-1.png){width="800" zoomable="yes"}

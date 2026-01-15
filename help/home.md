@@ -1,6 +1,6 @@
 ---
-title: Adobe Brand Concierge
-description: Learn more about Adobe Brand Concierge.
+title: Documentation and Tutorials
+description: Learn to configure and optimize your AI assistant with guides for setup, knowledge sources, brand customization, meetings, and analytics.
 ---
 
 # Adobe Brand Concierge
