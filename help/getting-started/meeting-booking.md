@@ -27,3 +27,5 @@ Learn about the booking a meeting capability found in Adobe Brand Concierge. In 
 * Discover how these tools are managed and configured
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+For more documentation, see [Meetings](../documentation/meetings.md).

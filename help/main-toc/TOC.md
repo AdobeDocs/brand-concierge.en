@@ -7,9 +7,9 @@ user-guide-description: Explore Adobe Brand Concierge
 # Adobe Brand Concierge {#content}
 
 + [Brand Concierge](../home.md)
-+ Getting Started{#getting-started}
-  + [Create first concierge](../getting-started/create-first-concierge.md)
-  + [Booking a meeting](../getting-started/meeting-booking.md)
++ Get started videos{#getting-started}
+  + [Create a concierge](../getting-started/create-first-concierge.md)
+  + [Book a meeting](../getting-started/meeting-booking.md)
 + Documentation{#documentation}
-  + [Overview](../documentation/overview.md)
+  + [Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
