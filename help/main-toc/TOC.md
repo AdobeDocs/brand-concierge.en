@@ -13,3 +13,4 @@ user-guide-description: Explore Adobe Brand Concierge
 + Documentation{#documentation}
   + [Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
+  + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
