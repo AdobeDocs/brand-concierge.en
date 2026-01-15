@@ -1,5 +1,5 @@
 ---
-title: Book a Meeting
+title: Book a Meeting - Video
 description: Learn how to book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports
 topic: Artificial Intelligence,Personalization
 role: Admin, User
