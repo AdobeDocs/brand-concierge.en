@@ -1,5 +1,5 @@
 ---
-title: Create a Concierge Video
+title: Create a Concierge - Video
 description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand's voice.
 topic: Personalization,Integrations
 role: User
