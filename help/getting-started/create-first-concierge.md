@@ -12,7 +12,7 @@ jira: KT-19504
 
 # Create your first concierge
 
-Learn how to set up your first Adobe Brand Concierge to help customers find the right Adobe products, services, or experiences. You learn how to name your concierge, add helpful content, choose how it responds, and match its voice to your brand. Once it's ready, you can test it and see how it works on desktop and mobile. 
+Learn how to set up your first Adobe Brand Concierge to help guide customers with a personalized, conversational experience on your website. You learn how to name your concierge, add helpful content, choose how it responds, and match its voice to your brand. Once it's ready, you can test it and see how it works on desktop and mobile. 
 
 ## Who is this video for?
 
