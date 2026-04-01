@@ -10,6 +10,10 @@ Read this section for answers to frequently asked questions regarding Brand Conc
 
 ## General
 
+### Why use Brand Concierge? What problem does it solve?
+
+More research happens on external AI tools (for example, ChatGPT, Gemini) instead of on brand websites. Visitors increasingly want to "get to the point"—for example, "Tell me about X," "Can I do Y?" Brand Concierge helps you keep that conversation on your site: when visitors land on your pages (including from an AI assistant), they can continue the conversation with an assistant trained on your content. You deliver a consistent, on-brand experience instead of losing them to generic answers elsewhere.
+
 ### How is Brand Concierge different from chatbots?
 
 Brand Concierge stands apart from traditional chatbots by leveraging generative AI that is specifically trained on your organization's content and customer data, rather than relying on scripted answers or generic web results. This enables the assistant to provide personalized responses informed by individual customer behavior, deeply integrate with your Adobe tools and data, continuously learn from each interaction, and accurately interpret customer intent beyond basic keyword matching.
@@ -48,6 +52,22 @@ All data follows your governance rules.
 ### Can customers opt out of personalization?
 
 Yes. Customers who opt out receive helpful responses without behavioral personalization. You configure opt-out handling to match your privacy policies.
+
+### Are there consent or privacy implications?
+
+Yes. **Conversation data:** If the conversation includes personal or identifiable information, collection, storage, and use must comply with your consent and privacy policy (for example, GDPR, CCPA). **Analytics:** When Concierge sends events to Experience Platform or analytics, those events may be subject to your existing consent and governance (for example, consent strings, data usage labels). We recommend treating Concierge like any other first-party digital experience: ensure your site's consent banner and preferences cover conversational and chat data and analytics, and align event data to your consent strategy. Have legal and compliance review before go-live.
+
+## Profiles and personalization
+
+### Does Concierge use customer profiles (for example, Real-Time CDP) to tailor responses? What if the visitor is partway through a journey?
+
+In the current scope, Concierge is focused on anonymous visitors: it answers from the conversation and your knowledge base (website and catalog), not from a live lookup of identity or journey state in Real-Time CDP. Roadmap capabilities include lead nurturing, handover to sales, and retargeting, which will align more with known profiles and journey context. Tailoring responses by "does this visitor have a profile?" or "where are they in a journey?" is a future enhancement. For now, the experience is consistent for anonymous visitors.
+
+## Rollout and timeline
+
+### How long does it typically take to go live?
+
+With parallel work and active collaboration, many implementations reach go-live in about 6-9 weeks. Staging can start quickly once your inputs (URLs, catalog, brand guidelines) are ready. After agreement and production setup, you move through quality tuning and a controlled rollout (for example, 5% then scaling to 100% over about a week).
 
 ## Configuration and control
 
@@ -102,6 +122,12 @@ Adobe consultants handle prompt engineering in the background:
 1. Changes reflect in your concierge automatically.
 
 This ensures your concierge uses best-practice AI prompt patterns while maintaining your specific brand requirements.
+
+## Brand expression and tone
+
+### If I set "playful and enthusiastic" in Brand Expression, will the AI overdo it?
+
+It can. Some customers have reported that the AI tends to overdo enthusiasm when set to "playful and enthusiastic"—for example, double exclamation points or strong superlatives. For regulated or medical audiences (for example, pharma, early life nutrition), we recommend dialing down enthusiasm and playfulness while keeping the tone conversational and casual. Use moderate settings and tune based on feedback; for regulated industries, lean toward "conversational" rather than "enthusiastic."
 
 ## Performance and analytics
 
