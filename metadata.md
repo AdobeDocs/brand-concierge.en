@@ -3,7 +3,7 @@ cloud: Experience Cloud
 solution: Brand Concierge
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-    label: "Brand Concierge"
+    internal-label: "Brand Concierge"
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/brand-concierge.en
