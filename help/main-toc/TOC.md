@@ -15,4 +15,4 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Meetings](../documentation/meetings.md)
   + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
 + Release notes {#release-notes}
-  + {hide-from-toc} [Current release info](../release-notes/current.md)
+  + [Current release info](../release-notes/current.md)
