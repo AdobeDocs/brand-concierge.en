@@ -1,7 +1,6 @@
 ---
 description: Current release notes for Adobe Brand Concierge.
 title: Current Release Notes
-hide: true
 feature: Release Information
 ---
 # Current release information {#current-release-notes}
