@@ -10,6 +10,7 @@ user-guide-description: Explore Adobe Brand Concierge
 + Get started videos {#getting-started}
   + [Create your first concierge](../getting-started/create-first-concierge.md)
   + [Book a meeting](../getting-started/meeting-booking.md)
+  + [Learn about datastream IDs](../getting-started/learn-about-datastream-ids.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
