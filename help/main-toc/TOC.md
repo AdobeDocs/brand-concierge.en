@@ -17,3 +17,4 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
++ [Integration with Marketo](help/getting-started/integration-with-marketo.md)
