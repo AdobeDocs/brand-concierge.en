@@ -1,7 +1,7 @@
 ---
 title: Integration with Marketo
 description: Learn how to integrate Adobe Brand Concierge with Marketo, using activity types to trigger and filter campaigns based on meeting bookings and live chat events.
-role: Administrator
+role: Admin
 level: Beginner
 duration: 146
 doc-type: Tutorial
