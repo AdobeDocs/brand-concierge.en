@@ -1,11 +1,11 @@
 ---
 title: Create a Concierge - Video
-description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences using your brand's voice.
+description: Learn how to set up an Adobe Brand Concierge to deliver personalized, conversational customer experiences on your site using your brand's voice and guidelines.
 topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 181
+duration: 213
 last-substantial-update: 2025-10-31T00:00:00.000Z
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
@@ -42,6 +42,6 @@ Learn how to set up your first Adobe Brand Concierge to help guide customers wit
 * How to connect content sources for accurate responses
 * How to customize the brand voice and test the experience
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).

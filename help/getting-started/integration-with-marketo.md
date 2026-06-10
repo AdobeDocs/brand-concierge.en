@@ -1,17 +1,17 @@
 ---
 title: Integration with Marketo
-description: Learn how to integrate Adobe Brand Concierge with Marketo, using activity types to trigger and filter campaigns based on meeting bookings and live chat events.
+description: Learn how Brand Concierge captures leads and books meetings, flowing every visitor interaction into Marketo as native activity data for Smart Campaigns.
 role: Admin
 level: Beginner
-duration: 177
+duration: 215
 topic: Integrations
 doc-type: Tutorial
-last-substantial-update: 2026-06-09
+last-substantial-update: 2026-06-10
 jira: KT-21468
 ---
 # Integration with Marketo
 
-Learn how to set up the Brand Concierge integration with Marketo. See how meeting booking and live chat events are forwarded as Marketo activity types, and how to use them to build and execute both trigger and batch campaigns.
+Learn how Brand Concierge closes the loop between your website and Marketo Engage. See how visitor conversations — from in-chat lead capture to meeting booking — flow automatically into Marketo as native activity data, and how to use that data in both trigger and batch Smart Campaigns.
 
 ## Who is this video for?
 
@@ -19,11 +19,10 @@ Learn how to set up the Brand Concierge integration with Marketo. See how meetin
 
 ## Video content
 
-* The three Brand Concierge activity types: Meeting Booking, Live Chat, and Engaged with Concierge
-* How to configure trigger campaigns using Brand Concierge activity conditions and filters
-* How meeting booking events are forwarded to Marketo with full activity details — including duration, sales type, email, concierge ID, routing type, and meeting status
-* How to build and run batch campaigns using Brand Concierge activity data
+* How visitor conversations flow from Brand Concierge into Marketo — from in-chat lead capture and meeting booking to automatic lead creation
+* The native "Scheduled Meeting in Concierge" activity type logged in the lead's Activity Log, with full context: meeting duration, sales step, routing type, and booking status
+* How to use Brand Concierge activity types in Marketo Smart Campaigns — as triggers, filters, or batch campaign data
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
