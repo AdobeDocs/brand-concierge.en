@@ -11,6 +11,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Create your first concierge](../getting-started/create-first-concierge.md)
   + [Book a meeting](../getting-started/meeting-booking.md)
   + [Learn about datastream IDs](../getting-started/learn-about-datastream-ids.md)
+  + [Integration with Marketo](../getting-started/integration-with-marketo.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
