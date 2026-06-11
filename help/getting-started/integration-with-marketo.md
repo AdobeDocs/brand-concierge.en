@@ -11,7 +11,7 @@ jira: KT-21468
 ---
 # Integration with Marketo
 
-Learn how Brand Concierge closes the loop between your website and Marketo Engage. See how visitor conversations — from in-chat lead capture to meeting booking — flow automatically into Marketo as native activity data, and how to use that data in both trigger and batch Smart Campaigns.
+Learn how Brand Concierge closes the loop between your website and Marketo Engage. See how visitor conversations (from in-chat lead capture to meeting booking) flow automatically into Marketo as native activity data, and how to use that data in both trigger and batch Smart Campaigns.
 
 ## Who is this video for?
 
