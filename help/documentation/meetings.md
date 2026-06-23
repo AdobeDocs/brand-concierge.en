@@ -20,7 +20,9 @@ level_v2:
 
 Get to know all of your _Meeting_ settings in Adobe Brand Concierge. Connect your calendar, set availability, view analytics, and more. 
 
-Related: [Book a meeting](../getting-started/meeting-booking.md) video
+>[!NOTE]
+>
+>You can also watch a [Book a meeting](../getting-started/meeting-booking.md) video.
 
 ## Configuration {#configuration}
 
@@ -34,11 +36,9 @@ Connect to your Outlook or Google account and determine various settings such as
 
    ![Adobe Experience Platform homepage](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Under _Configuration_, click **[!UICONTROL Representative settings]**.
+1. Under _Configuration_, click **Profile settings**. In the **[!UICONTROL Calendar configuration]** tab, choose your desired calendar.
 
    ![Calendar configuration page](assets/meetings-connect-2.png)
-
-   In the _[!UICONTROL Calendar configuration]_ tab, choose your desired calendar. In this example, you are selecting **[!UICONTROL Outlook]**.
 
 1. Choose an already signed-in account, or add a new one.
 
@@ -52,15 +52,13 @@ Connect to your Outlook or Google account and determine various settings such as
 
 1. Click **[!UICONTROL Save]**.
 
-### Set calendar availability {#availability}
+### Set calendar availability {#calendar-availability}
 
 1. Click the **[!UICONTROL Calendar availability]** tab.
 
    ![Blank Calendar availability page](assets/meetings-availability-1.png)
 
-1. Choose your desired settings. 
-
-   In this example, you are choosing **[!UICONTROL Meeting Durations]** of 30 minutes with a 15-minute **[!UICONTROL Buffer Time]** and a **[!UICONTROL Minimum Notice]** of 2 hours. Availability is set to Monday through Friday, 8 a.m - 5 p.m. PST, with a one-hour break at noon.
+1. Choose your desired settings.
 
    >[!NOTE]
    >
@@ -70,11 +68,18 @@ Connect to your Outlook or Google account and determine various settings such as
 
 1. Click **[!UICONTROL Save]**.
 
-### Representative management {#representative}
+### Set live chat availability {#chat-availability}
+
+1. Click the **[!UICONTROL Live chat availability]** tab and choose your desired settings. Click **Save** when done.
+
+   ![Live chat availability page with all fields filled out](assets/meetings-availability-3.png)
+
+
+### Manage members {#manage}
 
 **Admins only**. See which of your representatives have successfully connected their calendar.
 
-   ![Representative management page](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+   ![Representative management page](assets/manage-members-1.png)
 
 ## Activities {#activities}
 
