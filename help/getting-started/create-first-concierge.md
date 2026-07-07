@@ -45,3 +45,4 @@ Learn how to set up your first Adobe Brand Concierge to help guide customers wit
 >[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
+
