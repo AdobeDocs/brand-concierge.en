@@ -4,29 +4,13 @@ description: Learn about demo for brand concierge - value video.
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 111
+duration: 130
 last-substantial-update: 2026-07-09
 jira: KT-21955
 hide: true
 ---
-# Demo for brand concierge - Value Video
+# Create and manage a Brand Concierge from Co-Worker
 
-## Overview
+This video demonstrates how to create and manage a Brand Concierge (BC) directly from Co-Worker using natural-language prompts. It shows the end-to-end flow: prompting Co-Worker to create a Brand Concierge for a website, viewing the real-time creation-progress modal, opening the BC preview, and then requesting conversation analytics to open the Brand Concierge Reports dashboard for a given IMS org and sandbox.
 
-<!-- Briefly describe what this page covers and why it matters to the reader. -->
-
-## Prerequisites
-
-<!-- List anything the reader needs before starting (permissions, tools, prior knowledge). -->
-
-## Steps
-
-<!-- Replace this section heading with a task-specific verb phrase, e.g. 'Configure the data stream'. -->
-
-1. Step one.
-1. Step two.
-1. Step three.
-
-## Additional resources
-
-<!-- Link to related documentation, tutorials, or community posts. -->
+>[!VIDEO](https://video.tv.adobe.com/v/3494747)
