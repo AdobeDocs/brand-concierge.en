@@ -4,12 +4,14 @@ description: Learn about demo for brand concierge - value video.
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 111
+duration: 118
 last-substantial-update: 2026-07-09
 jira: KT-21955
 hide: true
 ---
 # Demo for brand concierge - Value Video
+
+>[!VIDEO](https://video.tv.adobe.com/v/3494747)
 
 ## Overview
 
