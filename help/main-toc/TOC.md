@@ -18,4 +18,4 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
-+ [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md){hide-from-toc}
++ [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md){.hide-from-toc}
