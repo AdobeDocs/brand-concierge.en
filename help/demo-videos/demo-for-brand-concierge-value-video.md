@@ -7,6 +7,7 @@ doc-type: Value Video
 duration: 111
 last-substantial-update: 2026-07-09
 jira: KT-21955
+hide: true
 ---
 # Demo for brand concierge - Value Video
 
