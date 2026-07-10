@@ -1,6 +1,6 @@
 ---
 title: Your Go-Live Journey - Video
-description: Preview the Adobe Brand Concierge go-live journey: the prepare, configure, validate, and roll out phases, plus a typical six-to-nine-week timeline.
+description: Preview the Adobe Brand Concierge go-live journey, covering the prepare, configure, validate, and roll out phases and a typical six-to-nine-week timeline.
 topic: Personalization,Integrations
 role: Developer
 level: Beginner
