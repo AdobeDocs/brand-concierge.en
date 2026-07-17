@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00.000Z
+last-substantial-update: 2026-01-06
 jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
