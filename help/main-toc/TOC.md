@@ -14,6 +14,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Integration with Marketo](../getting-started/integration-with-marketo.md)
 + Go-live guide {#go-live-guide}
   + [Welcome to your go-live journey](../go-live/welcome.md)
+  + [Preparing your content and visitor experience](../go-live/content-and-journey.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
