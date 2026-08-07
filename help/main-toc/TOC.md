@@ -15,6 +15,7 @@ user-guide-description: Explore Adobe Brand Concierge
 + Go-live guide {#go-live-guide}
   + [Welcome to your go-live journey](../go-live/welcome.md)
   + [Preparing your content and visitor experience](../go-live/content-and-journey.md)
+  + [Shaping your voice and widget](../go-live/voice-and-visuals.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
