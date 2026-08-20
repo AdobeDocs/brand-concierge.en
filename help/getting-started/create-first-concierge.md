@@ -5,8 +5,8 @@ topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 213
-last-substantial-update: 2025-10-31
+duration: 372
+last-substantial-update: 2026-08-20
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
 product_v2:
@@ -28,7 +28,7 @@ topic_v2:
 ---
 # Create your first concierge
 
-Learn how to set up your first Adobe Brand Concierge to help guide customers with a personalized, conversational experience on your website. You learn how to name your concierge, add helpful content, choose how it responds, and match its voice to your brand. Once it's ready, you can test it and see how it works on desktop and mobile. 
+Learn how to set up your first Adobe Brand Concierge in just a few minutes. Provide your website URL, and Brand Concierge automatically builds a starter brand profile and instructions from your site's own content, which you can review and adjust before saving. Once your concierge is built, test it with sample questions on both desktop and mobile to see how it responds using your own site content.
 
 ## Who is this video for?
 
@@ -38,11 +38,11 @@ Learn how to set up your first Adobe Brand Concierge to help guide customers wit
 
 ## Video content
 
-* How to set up an Adobe Brand Concierge
-* How to connect content sources for accurate responses
-* How to customize the brand voice and test the experience
+* How entering your website URL auto-fills your brand profile and suggested instructions
+* How to review and adjust the brand profile, instructions, and starter prompts before saving
+* How to test your concierge with sample questions on desktop and mobile
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
 
