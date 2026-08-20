@@ -6,7 +6,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10T00:00:00.000Z
+last-substantial-update: 2026-07-10
 jira: KT-21745
 ---
 
