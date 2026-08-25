@@ -1,7 +1,6 @@
 ---
 title: Create a role with Brand Concierge permission
 description: Learn how to create a role and grant it the permission required to access Brand Concierge.
-solution: Adobe Experience Platform
 ---
 
 # Create a role with Brand Concierge permission

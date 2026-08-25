@@ -1,7 +1,6 @@
 ---
 title: Add a user to the organization
 description: Learn how to add a user to the Adobe Experience Platform organization before granting Brand Concierge access.
-solution: Adobe Experience Platform
 ---
 
 # Add a user to the organization

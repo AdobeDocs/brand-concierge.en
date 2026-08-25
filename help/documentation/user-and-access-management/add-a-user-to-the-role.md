@@ -1,7 +1,6 @@
 ---
 title: Add users to the Brand Concierge role
 description: Learn how to assign users to a role that includes the Brand Concierge permission.
-solution: Adobe Experience Platform
 ---
 
 # Add users to the Brand Concierge role
