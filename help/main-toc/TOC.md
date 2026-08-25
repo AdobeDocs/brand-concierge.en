@@ -12,6 +12,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Book a meeting](../getting-started/meeting-booking.md)
   + [Learn about datastream IDs](../getting-started/learn-about-datastream-ids.md)
   + [Integration with Marketo](../getting-started/integration-with-marketo.md)
+  + [Customize your concierge's visual style](../getting-started/customize-visual-style.md)
 + Go-live guide {#go-live-guide}
   + [Welcome to your go-live journey](../go-live/welcome.md)
   + [Preparing your content and visitor experience](../go-live/content-and-journey.md)
