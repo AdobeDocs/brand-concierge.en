@@ -40,7 +40,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + Go-live checklist {#go-live-checklist}
     + {hide-from-toc} [glc](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc} [a](../documentation/analytics/doc.md)
+    + {hide-from-toc} [a](../documentation/analytics/analytics.md)
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
 + {hide-from-toc} [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)

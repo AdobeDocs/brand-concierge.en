@@ -53,7 +53,7 @@ If a visitor asks a question that is useful for future testing, add it directly 
 
 1. Select **Add to Evaluation**.
 
-Adding real visitor questions helps keep evaluation sets grounded in the questions visitors actually ask. For more information about evaluation sets, see [Evaluate a concierge](evaluate-a-concierge.md).
+Adding real visitor questions helps keep evaluation sets grounded in the questions visitors actually ask. For more information about evaluation sets, see `Evaluate a concierge` LINK.
 
 >[!TIP]
 >
