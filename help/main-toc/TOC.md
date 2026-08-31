@@ -29,6 +29,18 @@ user-guide-description: Explore Adobe Brand Concierge
     + {hide-from-toc} [Add a user to the org](../documentation/user-and-access-management/add-a-user-to-the-org.md)
     + {hide-from-toc} [Add a user to the role](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc} [Create a role](../documentation/user-and-access-management/create-a-role.md)
+  + Knowledge sources {#knowledge-sources}
+    + {hide-from-toc} [ks](../documentation/knowledge-sources/knowledge-sources.md)
+  + Concierge management {#concierge-management}
+    + {hide-from-toc} [cm](../documentation/concierge-management/concierge-management.md)
+  + Evaluation {#evaluation}
+    + {hide-from-toc} [e](../documentation/evaluation/evaluation.md)
+  + Deployment {#deployment}
+    + {hide-from-toc} [d](../documentation/deployment/deployment.md)
+  + Go-live checklist {#go-live-checklist}
+    + {hide-from-toc} [glc](../documentation/go-live-checklist/go-live-checklist.md)
+  + Analytics {#analytics}
+    + {hide-from-toc} [a](../documentation/analytics/doc.md)
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
 + {hide-from-toc} [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)
