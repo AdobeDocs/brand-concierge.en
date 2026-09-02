@@ -7,10 +7,10 @@ description: Learn how to create a role and grant it the permission required to 
 
 Create a role in Adobe Experience Platform Permissions to grant users access to Brand Concierge.
 
-## Prerequisites
-
-* You must have the administrator permissions required to manage roles and permissions.
-* The user must first be added to the Adobe Experience Platform organization. For more information, see 'Add a user to the organization' (LINK).
+>[!PREREQUISITES]
+>
+>- You must have the administrator permissions required to manage roles and permissions.
+>- The user must first be added to the Adobe Experience Platform organization. For more information, see [Add a user to the organization](./add-a-user-to-the-org.md).
 
 ## Create the role
 
@@ -20,27 +20,27 @@ Create a role in Adobe Experience Platform Permissions to grant users access to 
    >
    >Confirm the production URL with engineering before publishing this procedure. The source recording used an informal or possibly mis-transcribed URL.
 
-2. In the left navigation, scroll to and select **Permissions**.
-3. Select **Roles** to view existing roles, then select **Create a new role**.
-4. Enter a name for the role, such as `Brand Concierge Access Users`, add a description, and confirm the creation.
-5. Open the new role and assign permissions:
+1. In the left navigation, scroll to and select **Permissions**.
+1. Go to **Roles** to view existing roles, and select **Create a new role**.
+1. Enter a name for the role, such as `Brand Concierge Access Users`, add a description, and confirm the creation.
+1. Open the new role and assign permissions:
 
    1. Search the permission list for **Brand Concierge**.
-   2. Select **Manage Brand Concierge**.
+   1. Select **Manage Brand Concierge**.
 
-   Currently, **Manage Brand Concierge** is the only available Brand Concierge permission. Granular permission tiers are not currently available.
+   At this time, **Manage Brand Concierge** is the only available Brand Concierge permission; granular permission tiers are not yet available.
 
-6. Select the sandbox or sandboxes that the role can access.
+1. Select the sandbox or sandboxes that the role can access.
 
    An organization can contain multiple sandboxes, which are isolated workspaces. Select only the sandboxes appropriate for this role.
 
-7. Select **Save**.
+1. Select **Save**.
 
 ## Next steps
 
-After the role is created, add users to it. For more information, see 'Add users to the role' (LINK).
+After the role is created, add users to it. For more information, see [Add users to the Brand Concierge role](./add-a-user-to-the-role.md).
 
-## Related considerations
+## Things to note
 
-* The process for creating and managing sandboxes is outside the scope of this procedure.
-* Confirm whether additional granular Brand Concierge permissions are planned before defining a long-term role model.
+- The process for creating and managing sandboxes is outside the scope of this procedure.
+- Confirm whether additional granular Brand Concierge permissions are planned before defining a long-term role model.

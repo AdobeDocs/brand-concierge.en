@@ -1,7 +1,7 @@
 ---
 title: Analyze concierge performance
-description: Learn how to review concierge analytics, inspect conversation transcripts, add visitor questions to evaluation sets, and open detailed Customer Journey Analytics reports.
-toc: true
+description: Learn to review concierge analytics, inspect conversation transcripts, add visitor questions to evaluation sets, and open Customer Journey Analytics reports.
+hide: true
 ---
 
 # Analyze concierge performance
@@ -10,7 +10,7 @@ toc: true
 
 **Recommended cadence:** Review analytics as needed. A weekly check-in is a reasonable starting point.
 
-Analytics help you understand how visitors engage with a live concierge. After deployment, the **Analytics** tab automatically displays conversation metrics and provides access to individual transcripts and a more detailed Customer Journey Analytics report.
+Analytics helps you understand how visitors engage with a live concierge. After deployment, the **Analytics** tab automatically displays conversation metrics and provides access to individual transcripts and a more detailed Customer Journey Analytics report.
 
 ## View analytics
 
@@ -37,7 +37,7 @@ The Analytics tab displays the following metrics automatically:
 
 Conversation transcripts let you review what visitors asked and how the concierge responded.
 
-1. In the Analytics view, select a conversation.
+1. In the Analytics tab, select a conversation.
 
 1. Read the full transcript.
 
@@ -53,11 +53,11 @@ If a visitor asks a question that is useful for future testing, add it directly 
 
 1. Select **Add to Evaluation**.
 
-Adding real visitor questions helps keep evaluation sets grounded in the questions visitors actually ask. For more information about evaluation sets, see `Evaluate a concierge` LINK.
+Adding real visitor questions helps keep evaluation sets grounded in the questions visitors actually ask. For more information about evaluation sets, see [Evaluate a concierge](../evaluation/evaluation.md).
 
 >[!TIP]
 >
->Review transcripts regularly and add representative questions—not only questions that received negative feedback—to help maintain a balanced evaluation set.
+>Review transcripts regularly and add representative questions, not only questions that received negative feedback, to help maintain a balanced evaluation set.
 
 ## Open the Customer Journey Analytics report
 
@@ -65,13 +65,13 @@ Select **View Report** to open a more detailed dashboard in Adobe Customer Journ
 
 The CJA dashboard includes:
 
-* Weekly conversation trends
-* Repeat engagement, including conversations per person
-* Messages per conversation
-* Visitor feedback trends
-* Visitor intent
-* Visitor sentiment and tone
-* Concierge recommendations made during conversations
+- Weekly conversation trends.
+- Repeat engagement, including conversations per person.
+- Messages per conversation.
+- Visitor feedback trends.
+- Visitor intent.
+- Visitor sentiment and tone.
+- Concierge recommendations made during conversations.
 
 Use the dashboard to examine trends over time and identify changes in visitor engagement, feedback, intent, and sentiment.
 
@@ -82,15 +82,3 @@ The source material identifies the conversation ID as a way to match transcripts
 >[!IMPORTANT]
 >
 >Do not treat conversation IDs as an export workflow. A dedicated walkthrough from Product or Engineering is required before documenting how to export conversations or transcripts.
-
-## Source scope and open questions
-
-This article covers the analytics capabilities described in the source material:
-
-* Analytics-tab metrics
-* Conversation transcripts and visitor feedback
-* Adding conversations to evaluation sets
-* The Customer Journey Analytics dashboard
-* The documented limitation around conversation export
-
-The supplied source ends with an unfinished `10` heading. No additional section is included here.

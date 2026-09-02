@@ -1,12 +1,12 @@
 ---
 title: Manage a concierge
-description: Learn how to create, configure, test, and share a Brand Concierge before deployment.
+description: Learn how to create a Brand Concierge from a website, configure its integrations, skills, instructions, tone, and visual style, and test it before deployment.
 toc: true
 ---
 
 # Manage a concierge
 
-A concierge is created from a brand website and can be refined with integrations, skills, instructions, tone and voice settings, visual styles, and chat components. Use the preview to test changes before deliberately deploying the concierge to visitors.
+A concierge is created from a brand website and can be refined with integrations, skills, instructions, tone and voice settings, visual styles, and chat components. Use the preview to test changes before you deliberately deploy the concierge to visitors.
 
 ## Overview
 
@@ -25,13 +25,13 @@ A concierge is created from a brand website and can be refined with integrations
 
 Creating a concierge from a single website URL is the recommended starting point for a first-time user. The system creates a working baseline without requiring manual configuration.
 
-1. Enter the brand's website URL, then select **Create**.
+1. Enter the brand's website URL and select **Create**.
 
-1. Review the generated brand expression. The system analyzes the website's tone and proposes attributes such as formality, warmth, playfulness, and energy. Adjust the values as needed, then select **Continue**.
+1. Review the generated brand expression. The system analyzes the website's tone and proposes attributes such as formality, warmth, playfulness, and energy. Adjust the values as needed and select **Continue**.
 
-1. Review the generated brand profile. The profile can include the brand goal, products and services, target audience, brand value, key differentiators, and common use cases. Edit the profile as needed, then select **Continue**.
+1. Review the generated brand profile. The profile can include the brand goal, products and services, target audience, brand values, key differentiators, and common use cases. Edit the profile as needed and select **Continue**.
 
-1. Review the generated starting instructions, guardrails, and suggestions. For example, guardrails can exclude legal or compliance topics or competitor discussions, while suggestions can provide follow-up prompt ideas. Edit the content as needed, then select **Save**.
+1. Review the generated starting instructions, guardrails, and suggestions. For example, guardrails can exclude legal topics, compliance topics, or competitor discussions, while suggestions can provide follow-up prompt ideas. Edit the content as needed and select **Save**.
 
 1. Wait for the system to apply the baseline configuration. The system also creates a default visual style using colors and fonts drawn from the website and activates baseline skills and integrations, such as a general question-and-answer skill connected to website content.
 
@@ -47,13 +47,13 @@ The following items are configured automatically when you create a concierge:
 
 | Item | Configuration |
 |---|---|
-| Knowledge base content | Built from the site's top pages through a background crawl that starts automatically |
+| Knowledge Base content | Built from the site's top pages through a background crawl that starts automatically |
 | Knowledge Base Search integration | Automatically points to the crawled content |
 | Site Advisory skill | Active by default so the concierge can answer general questions immediately |
 
 ## Understand skills and integrations
 
-Composer uses two related concepts:
+Composer, the interface used to build and configure a concierge, uses two related concepts:
 
 - **Integration:** A connection to a data source, such as website content or a live product catalog. An integration retrieves information but does not make decisions by itself.
 - **Skill:** A behavior that determines what the concierge does, when it does it, and which integrations it can use.
@@ -67,7 +67,7 @@ Select **Browse Integrations** to view the available integration catalog.
 | Integration | Purpose | Notes |
 |---|---|---|
 | Knowledge Base Search | Searches website content | Configured automatically when the concierge is created |
-| Content AI Search | Searches AEM Sites content | Relevant for AEM Sites as a Cloud Service customers |
+| Content AI Search | Searches AEM Sites content | Relevant for customers of AEM Sites as a Cloud Service |
 | Product Catalog | Displays product cards or links from an uploaded product list | Intended for smaller, non-commerce catalogs |
 | Commerce MCP | Connects to a live Adobe Commerce catalog for product search, product details, and comparisons | Not enabled by default; requires codes or keys from the commerce or IT team |
 | Meeting Booking | Allows visitors to book a meeting with a sales representative | B2B capability |
@@ -75,11 +75,11 @@ Select **Browse Integrations** to view the available integration catalog.
 
 ### Turn on and configure an integration
 
-1. Select the integration tile, then select **Edit**.
+1. Open the integration tile and select **Edit**.
 
-1. For **Knowledge Base Search**, select the knowledge source to search. You can rename the connection—for example, `Website content`.
+1. For **Knowledge Base Search**, select the knowledge source to search. You can rename the connection, for example `Website content`.
 
-1. For **Commerce MCP**, enter the following values supplied by the Adobe Commerce or IT team, then connect:
+1. For **Commerce MCP**, enter the following values supplied by the Adobe Commerce or IT team and connect:
    - Environment ID
    - Website code
    - Store code
@@ -104,7 +104,7 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 
 | Skill | Purpose | Required integration or configuration |
 |---|---|---|
-| Site Advisory | Answers general brand questions, including FAQs, policies, pricing, how-to questions, and support questions | Website content; active by default |
+| Site Advisory | Answers general brand questions, including FAQs, policies, pricing, how-to guidance, and support topics | Website content; active by default |
 | Adobe Commerce Catalog Discovery | Searches, browses, filters, and retrieves details about products from a live catalog | Commerce MCP integration |
 | Adobe Commerce Product Comparison | Provides a side-by-side comparison of named products | Commerce MCP integration |
 | Book Meeting with Sales | Suggests and facilitates booking a meeting | Meeting Booking integration |
@@ -112,7 +112,7 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 
 ### Turn on and configure a skill
 
-1. Select the skill tile, then select **Modify**.
+1. Open the skill tile and select **Modify**.
 
 1. Set the skill's name, description, and intents. Intents are the phrases or topics that should trigger the skill, such as `pricing` or `compare products`. You can add multiple intents.
 
@@ -120,7 +120,7 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 
 1. Review and edit the skill's starting instructions as needed.
 
-1. Select **Save**, then test the change in the live preview.
+1. Select **Save** and test the change in the live preview.
 
 >[!TIP]
 >
@@ -157,20 +157,19 @@ Selections are saved automatically. Test the result in the live preview after ma
 
 ## Configure the visual style
 
-Visual style settings control the concierge's appearance, including:
+Visual style settings control the concierge's appearance, including but not limited to:
 
 - Colors
 - Fonts
 - Welcome message text
 - Legal disclaimer text
 - Card colors
-- Similar visual elements
 
 Edit the settings in the user interface and use the live preview to review changes. Select **Save** to make the changes permanent.
 
 >[!NOTE]
 >
->The source material states that a fully custom look and feel may be possible through a deployment script beyond the options available in the user interface. The deployment-script procedure was not included and should be documented separately after it is confirmed.
+>The source material states that a fully custom look and feel may be possible beyond the options available in the user interface, through a separate deployment script. The deployment-script procedure was not included and should be documented separately after it is confirmed.
 
 ## Configure chat components
 
@@ -215,7 +214,7 @@ Meeting Booking and Live Chat allow visitors to book meetings with sales represe
 
 1. Turn on the **Meeting Booking** and/or **Live Chat** integration.
 
-1. Open **Browse Skills**, then open **Book Meeting with Sales** and/or **Live Chat with Sales**. Set the triggers, attach the corresponding integration, and save the skill.
+1. Go to **Browse Skills** and select **Book Meeting with Sales** and/or **Live Chat with Sales**. Set the triggers, attach the corresponding integration, and save the skill.
 
 1. Select **Simulate** to test the end-to-end experience. Enter a sample question and confirm that it routes to the correct skill and engagement flow.
 
@@ -226,7 +225,7 @@ When the capabilities are live:
 - Incoming live chats appear to available representatives in real time.
 - Booked meetings appear in a meetings view.
 - A Meeting Performance Report is available in analytics.
-- Meeting and chat engagements are sent to Marketo as activities alongside existing Marketo activity data.
+- Meeting and chat engagements are sent to Marketo as activities, alongside existing activity data.
 
 ### B2B information that requires confirmation
 
@@ -266,9 +265,3 @@ Use the preview or simulation experience after each significant configuration ch
 - Tone, voice, instructions, guardrails, and suggestions produce the expected responses.
 - Visual styles and chat components display correctly on desktop and mobile views.
 - Stakeholders can review the experience through the shareable preview link, if one is used.
-
-## Scope and source notes
-
-This article consolidates the supplied Concierge Management notes. The source ends with an incomplete `6.` heading after the shareable preview-link section. No content was provided for that heading, so it is not expanded here.
-
-The open questions identified in the source are retained in the relevant sections. Confirm those details against the current product experience before publishing this article as final customer-facing documentation.
