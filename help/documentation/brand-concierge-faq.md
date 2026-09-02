@@ -52,6 +52,10 @@ Yes. Use cases include:
 
 Brand Concierge can be used across a wide range of industries, including retail and e-commerce, travel and hospitality, financial services, healthcare (with compliance controls), media and entertainment, and technology and software. Essentially, any industry that helps customers find information and make decisions can benefit from implementing Brand Concierge.
 
+### Does Brand Concierge need to be on the same domain as my website?
+
+No. Brand Concierge is domain agnostic—the instance doesn't need to match the domain of the site it's deployed on.
+
 ## Data and privacy
 
 ### Is customer data safe?
@@ -59,6 +63,10 @@ Brand Concierge can be used across a wide range of industries, including retail 
 Yes. Brand Concierge ensures customer data is safe by adhering to GDPR and CCPA compliance, processing data on Adobe's secure infrastructure, providing you with control over data usage, and safeguarding conversations through encryption and audit logging.
 
 All conversations happen on your properties, not third-party servers.
+
+### Does customer data stay within my region?
+
+Yes. Brand Concierge builds in data residency, so personal data collected during a conversation—for example, a name, email address, or mailing address—stays local in line with applicable regional regulations.
 
 ### What data sources can I connect?
 
@@ -98,6 +106,10 @@ With parallel work and active collaboration, many implementations reach go-live 
 
 You can control your brand voice directly in the UI by configuring elements such as tone (ranging from formal to casual), language (from simple to technical), and personality (for example, helpful, enthusiastic, or professional). Additionally, you can define response patterns using templates and examples, and establish guardrails to enforce compliance rules and boundaries. Begin with Adobe's reference prompts and tailor these settings to reflect your brand's unique identity.
 
+### Are there built-in safety guardrails beyond what I configure?
+
+Yes. Safety guardrails, along with content and profanity filters, are enforced at the system level regardless of your own configuration. Anything specific to your brand or industry can be layered on top through the instructions you configure.
+
 ### What happens when Brand Concierge can't answer a question?
 
 You can configure fallback behaviors to determine how Brand Concierge responds when it cannot answer a question. Options include displaying a graceful "I can't help with that" message, suggesting alternative questions, linking to self-service resources, or automatically escalating the inquiry to a human agent. Choose what works best for your brand.
@@ -134,6 +146,14 @@ All testing happens before you deploy to customers.
 
 Yes, customers can schedule meetings with your team using the Meeting Booking skill. To enable this feature, activate the skill in Skills Configuration, define activation intents (such as "speak with sales"), connect your calendar or scheduling system, and set your availability and meeting types. Once configured, customers can request meetings during conversations, and Brand Concierge will facilitate the scheduling process without requiring them to leave the chat.
 
+### How are the initial Q&A pairs in my knowledge base generated?
+
+In auto-generate mode, Brand Concierge draws on content scraped from your own site to generate an initial set of Q&A pairs. From there, you review and edit the generated Q&A based on your own expertise before it goes live.
+
+### Does my knowledge base stay current as my site changes?
+
+Yes. Content can be refreshed on a regular schedule, or manually at any time, so removed or outdated content—such as broken links, retired pages, pricing changes, or discontinued products—can be cleared from the knowledge base.
+
 ### Who handles the prompt engineering?
 
 Adobe consultants handle prompt engineering in the background:
@@ -169,11 +189,19 @@ You can measure success using the Brand Concierge dashboard. Use the dashboard t
 
 You can also integrate with Adobe Analytics for deeper analysis.
 
+### How fast does Brand Concierge respond to a visitor?
+
+Typical response time is roughly 2-3 seconds.
+
 ### What should I do if sentiment drops?
 
 If you notice a drop in sentiment, investigate the underlying causes by reviewing recent failed queries, checking for content gaps, analyzing negative feedback, testing for appropriate tone, and verifying any technical issues. Once the root causes are identified, promptly address them and continue to monitor for improvement.
 
 ## Integration and technical
+
+### Can Brand Concierge function as a retrieval-augmented generation (RAG) system on my content and data?
+
+Yes. Brand Concierge builds a RAG layer from the knowledge it ingests. When a knowledge source is created from URLs or a sitemap, Brand Concierge scrapes the content and builds a vector database from it behind the scenes.
 
 ### Do I need other Adobe products?
 
@@ -186,6 +214,14 @@ No, but they enhance performance:
 | **With Adobe Commerce** | Real-time inventory<br>Order history<br>Cart integration |
 | **With Adobe Experience Manager** | Content management<br>Dynamic updates<br>Multi-site support |
 
+### How does the Adobe Commerce integration work, and does it support Commerce as PaaS?
+
+Brand Concierge connects to Adobe Commerce through the Adobe Commerce MCP (Model Context Protocol). This includes native support for customers running Commerce as PaaS, covering a range of basic use cases self-serve; more complex or custom variations may need additional backend work.
+
+### Does Brand Concierge support shopping beyond catalog browsing and recommendations?
+
+Today, Brand Concierge supports product discovery. Deeper commerce actions such as adding items to a cart or checking out are planned future enhancements.
+
 ### What if my site isn't on Adobe?
 
 Brand Concierge works with any platform. The JavaScript SDK integrates with any website, and mobile SDKs work with any app backend.
@@ -197,3 +233,7 @@ When agent handoff is triggered, Brand Concierge transfers the full conversation
 ### Can I support multiple languages?
 
 Yes. Configure language support per assistant based on your customer base. Brand Concierge detects customer language and responds accordingly.
+
+### Can I track custom events from Brand Concierge in my own analytics?
+
+Yes. The concierge exposes client-side callback functions that trigger when a visitor engages with it, so it's up to you which events you choose to trigger or track.
