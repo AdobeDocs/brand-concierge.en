@@ -1,7 +1,7 @@
 ---
 title: Evaluate a concierge
 description: Learn how to create evaluation sets and run functional, out-of-scope, and safeguard evaluations to assess the accuracy and safety of a concierge's responses.
-toc: true
+hide: true
 ---
 
 # Evaluate a concierge
@@ -82,15 +82,3 @@ To review a run:
 * Create at least a small evaluation set for each evaluation type: functional, out of scope, and safeguard. Each type catches a different class of issue.
 * Rerun evaluations after any meaningful configuration change, including changes to instructions, guardrails, skills, or integrations. Treat evaluations as an ongoing practice rather than a one-time gate.
 * Add real visitor questions from Analytics to an evaluation set when they reveal a gap worth testing.
-
-## Open questions and source scope
-
-The source material does not include a dedicated FAQ for common evaluation issues, such as:
-
-* What to do when scores plateau.
-* How to interpret ambiguous scoring.
-* The minimum recommended evaluation-set size.
-
-Gather this guidance from the evaluation or product team before publishing a final version of this section.
-
-The supplied source ends with an unfinished `7.` heading. No additional section content was provided.

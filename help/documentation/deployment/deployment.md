@@ -1,23 +1,23 @@
 ---
 title: Deploy a concierge
-description: Learn how to configure a datastream, install a concierge on your website, and control the pages where it appears.
-toc: true
+description: Learn how to deploy a Brand Concierge by configuring a datastream, installing the deployment script, defining surface rules, and verifying the deployment.
+hide: true
 ---
 
 # Deploy a concierge
 
-Deployment makes a concierge available to real website visitors. The marketer configures the deployment settings, while an IT or web developer provides the datastream ID and installs the deployment script on the website.
+Deployment makes a concierge available to real website visitors. The marketer configures the deployment settings, while the IT or analytics team provides the datastream ID and the website team installs the deployment script on the website.
 
 Deployment is typically a short, one-time configuration for each site. Plan for approximately 15 minutes on the marketer's side, plus the time required for the website team to install the script.
 
 >[!IMPORTANT]
 >
->Involve the IT or web development team early. Their participation is required to provide the datastream ID and install the script, so deployment should not be treated as the final step of the implementation.
+>Involve the IT or analytics team and the website team early. Their participation is required to provide the datastream ID and install the script, so deployment should not be treated as the final step of the implementation.
 
 ## Before you begin
 
 - Coordinate with the IT or analytics team to obtain a datastream ID.
-- Identify the team that manages the website or tag manager.
+- Identify the team responsible for the website or tag manager. This article refers to this group as the website team.
 - Decide whether the concierge should appear as a component on existing pages or as a complete, dedicated page.
 - Identify the domains and page paths where the concierge should appear.
 
@@ -33,19 +33,19 @@ Ask the IT or analytics team for the datastream ID. The ID can be found in Adobe
 
 ### Add the datastream configuration
 
-1. In Adobe Experience Platform, obtain the datastream ID from the IT or analytics team.
-2. In the Brand Concierge deployment section, select **Add Config**.
-3. Paste the datastream ID.
-4. Save the configuration.
-5. After the configuration is saved, select the appropriate installation option:
-   - **Component install**: Use a snippet that the web developer places at a specific location on the website.
-   - **Full-page install**: Use a complete, ready-to-host page for a dedicated concierge landing page.
-6. Provide the selected script or page to the web developer.
-7. Have the web developer install the script directly in the page code or through a tag manager.
+1. Have the datastream ID ready.
+1. In the Brand Concierge deployment section, select **Add Config**.
+1. Paste the datastream ID.
+1. Save the configuration.
+1. After the configuration is saved, select the appropriate installation option:
+   - **Component install:** Use a snippet that the website team places at a specific location on the website.
+   - **Full-page install:** Use a complete, ready-to-host page for a dedicated concierge landing page.
+1. Provide the selected script or page to the website team.
+1. Have the website team install the script directly in the page code or through a tag manager.
 
 >[!NOTE]
 >
->Installation is typically handled by the team that manages the website, similar to adding an analytics or chat-tool tag.
+>Installation is typically handled by the website team, similar to adding an analytics or chat-tool tag.
 
 ## Configure the surface
 
@@ -54,13 +54,13 @@ After the script is installed, surface configuration controls the pages where th
 ### Add a domain and page rules
 
 1. Add a domain, such as `blog.example.com`.
-2. Choose how paths on the domain should match. Available matching patterns include:
+1. Choose how paths on the domain should match. Available matching patterns include:
    - Any page under the domain.
    - Paths that start with a specified value.
    - Paths that end with a specified value.
    - An exact path match.
-3. Combine multiple rules to define more precise page coverage.
-4. Save the surface configuration.
+1. Combine multiple rules to define more precise page coverage.
+1. Save the surface configuration.
 
 ## Verify the deployment
 
@@ -79,11 +79,12 @@ After the website team installs the script and the surface rules are saved, veri
 
 The source material does not define the following details:
 
-- The complete, canonical list of event types sent to the datastream. The supplied examples include clicks, form submissions, meeting bookings, and live chats, but the full list should be confirmed with engineering.
+- The complete, canonical list of event types sent to the datastream. The supplied examples include clicks, form submissions, booked meetings, and live chats, but the full list should be confirmed with engineering.
 - Whether datastream configuration differs between trial and paid customers.
+- Which specific analytics product the datastream activity is viewed in; the source material refers to this only as "Analytics."
 
 These questions may overlap with separate telemetry requirements and should be resolved with the appropriate engineering or product team before publishing deployment guidance as a definitive reference.
 
 ## Incomplete source content
 
-The supplied source ends with an unfinished section heading, `8`. No additional content was provided for that section.
+The supplied source ends abruptly at step 8, which has no content.
