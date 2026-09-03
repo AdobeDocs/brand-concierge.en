@@ -74,17 +74,3 @@ After the website team installs the script and the surface rules are saved, veri
 >[!TIP]
 >
 >Test both an included page and an excluded page. This confirms that the surface rules are working as intended before the concierge is made broadly available.
-
-## Open questions and scope notes
-
-The source material does not define the following details:
-
-- The complete, canonical list of event types sent to the datastream. The supplied examples include clicks, form submissions, booked meetings, and live chats, but the full list should be confirmed with engineering.
-- Whether datastream configuration differs between trial and paid customers.
-- Which specific analytics product the datastream activity is viewed in; the source material refers to this only as "Analytics."
-
-These questions may overlap with separate telemetry requirements and should be resolved with the appropriate engineering or product team before publishing deployment guidance as a definitive reference.
-
-## Incomplete source content
-
-The supplied source ends abruptly at step 8, which has no content.
