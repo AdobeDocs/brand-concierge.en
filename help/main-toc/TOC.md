@@ -23,6 +23,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
   + {hide-from-toc} [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
+  + [Developer and customization guide](../documentation/developer-customization-guide.md)
   + [Frequently Asked Questions](../documentation/brand-concierge-faq.md)
   + Overview {#overview}
     + {hide-from-toc} [Brand Concierge overview](../documentation/overview/overview.md)
