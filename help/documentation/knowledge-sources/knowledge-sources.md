@@ -16,8 +16,6 @@ A concierge answers questions using only its configured knowledge sources. It do
 
 ## Choose a knowledge source
 
-The source material describes the following knowledge source types:
-
 | Knowledge source | Use it when | Main capability |
 | --- | --- | --- |
 | AEM Sites (Content AI index) | The customer uses AEM Sites as a Cloud Service with Content AI enabled. | Uses an existing Content AI index and makes updated AEM Sites content available without a separate crawl or refresh step. |
