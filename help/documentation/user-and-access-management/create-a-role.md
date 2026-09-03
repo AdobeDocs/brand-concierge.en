@@ -16,10 +16,6 @@ Create a role in Adobe Experience Platform Permissions to grant users access to 
 
 1. Sign in to `experienceplatform.adobe.com`.
 
-   >[!NOTE]
-   >
-   >Confirm the production URL with engineering before publishing this procedure. The source recording used an informal or possibly mis-transcribed URL.
-
 1. In the left navigation, scroll to and select **Permissions**.
 1. Go to **Roles** to view existing roles, and select **Create a new role**.
 1. Enter a name for the role, such as `Brand Concierge Access Users`, add a description, and confirm the creation.
@@ -39,8 +35,3 @@ Create a role in Adobe Experience Platform Permissions to grant users access to 
 ## Next steps
 
 After the role is created, add users to it. For more information, see [Add users to the Brand Concierge role](./add-a-user-to-the-role.md).
-
-## Things to note
-
-- The process for creating and managing sandboxes is outside the scope of this procedure.
-- Confirm whether additional granular Brand Concierge permissions are planned before defining a long-term role model.

@@ -47,12 +47,12 @@ Brand Concierge has a number of key features including:
 
 ## Get started {#getting-started}
 
-You can access Brand Concierge from the Adobe Experience Cloud dashboard. At a high level, you perform these tasks on the Homepage walkthrough:
+You can access Brand Concierge from the Adobe Experience Cloud dashboard. At a high level, you perform these tasks:
 
-1. [Create a concierge](#homepage)
-1. [Add knowledge sources](#knowledge-sources)
-1. [Configure skills](#skills-configuration)
-1. [Specify your Brand Expression](#brand-expression).
+1. [Create a concierge](#homepage) from a website URL. A starting knowledge source, brand expression, and baseline skill are generated automatically.
+1. [Review and refine knowledge sources](#knowledge-sources) as needed.
+1. [Configure additional skills](#skills-configuration) beyond the baseline skill.
+1. [Adjust your Brand Expression](#brand-expression) if the generated defaults need changes.
 
 For a video tutorial, see [Create your first concierge](../getting-started/create-first-concierge.md)
 
@@ -60,26 +60,27 @@ The following sections describe each task and the interface options in detail.
 
 ## Create a concierge {#homepage}
 
-The Brand Concierge Homepage is designed for ease of use and efficiency, guiding you through essential setup steps with a dedicated first-time user walkthrough. A prominent top banner outlines key actions such as specifying your concierge's name and purpose, adding knowledge sources, configuring relevant skills, and defining your brand expression. 
+Creating a concierge from a single website URL is the recommended starting point for a first-time user. The Brand Concierge Homepage reads the site and builds a working baseline automatically: no manual configuration is required to get started.
 
-As you progress, a visual tracker clearly displays which setup components have been completed and highlights any remaining tasks. To further support your efforts, the Homepage features an inspirational section with videos and demonstrations of concierge capabilities, such as product recommendations. You also have quick access to Experience League documentation for more in-depth technical insights. 
-
-Once setup is complete, a configuration summary provides a comprehensive view of your details, organized with tabs to facilitate ongoing adjustments and refinements.
+As setup completes, a configuration summary provides a comprehensive view of your details, organized with tabs to facilitate ongoing adjustments and refinements. The Homepage also features an inspirational section with videos and demonstrations of concierge capabilities, such as product recommendations, and quick access to Experience League documentation for more in-depth technical insights.
 
 **Key elements**
 
-* **First-Time User Walkthrough**: A top banner with steps to set up your concierge (name/purpose, knowledge sources, skills, brand expression).
-* **Progress Tracker**: Visual indicators of completed vs. pending setup components. 
+* **One-click creation**: Enter a website URL to automatically generate a starting brand expression, brand profile, instructions, guardrails, knowledge source, and baseline skill.
+* **Guided review**: Each generated element is presented for review before it is saved, so nothing goes live without a chance to adjust it first.
 * **Inspirational Section**: Videos and demos showcasing concierge capabilities (for example, product recommendations).
 * **Documentation Links**: Quick access to Experience League resources for deeper tech insights.
 * **Configuration Summary**: Post-setup view of all details, with tabs for refinement.
 
 **To create a concierge**
 
-1. Navigate to the walkthrough banner, then click **[!UICONTROL Get started]**. 
-1. Enter a name for your concierge and define its purpose (for example, _Recommend personalized products_).
-1. Follow the guided steps to proceed.
-1. Once setup is complete, return to the Homepage to monitor or edit your concierge.
+1. Enter the brand's website URL and select **[!UICONTROL Create]**.
+1. Review the generated brand expression (such as formality, warmth, playfulness, and energy) and adjust as needed.
+1. Review the generated brand profile, including goals, products and services, target audience, and differentiators, and adjust as needed.
+1. Review the generated instructions, guardrails, and suggestions, and adjust as needed.
+1. Select **[!UICONTROL Save]**. The concierge is ready to test in preview.
+
+For complete details on this flow, including what is configured automatically, see [Manage a concierge](./concierge-management/concierge-management.md).
 
 >[!TIP]
 >
@@ -87,7 +88,7 @@ Once setup is complete, a configuration summary provides a comprehensive view of
 
 ### Knowledge Sources {#knowledge-sources}
 
-[!UICONTROL Knowledge Sources] help you manage the data sources that power your concierge's answers. You can access [!UICONTROL Knowledge Sources] after you upload your initial files. [!UICONTROL Knowledge Sources] has a number of key elements to consider, such as:
+[!UICONTROL Knowledge Sources] help you manage the data sources that power your concierge's answers. A starting knowledge source is created automatically when you create a concierge from a website URL; use this area to review it or add more. [!UICONTROL Knowledge Sources] has a number of key elements to consider, such as:
 
 * **Source List:** Displays all uploaded items, such as CSV files with website links, and indicates their status as either processed or pending.
 * **Upload Interface:** Allows you to drag and drop or browse for CSV files that contain URLs, which the system will crawl to extract knowledge.
@@ -113,37 +114,37 @@ Once setup is complete, a configuration summary provides a comprehensive view of
 
    Use the Homepage to edit or delete your knowledge sources as needed. You can also reconnect a knowledge source if any changes occur.
 
+For the full set of knowledge source types and troubleshooting steps, see [Create and manage knowledge sources for Brand Concierge](./knowledge-sources/knowledge-sources.md).
+
 ### Configure skills {#skills-configuration}
 
-Use the [!UICONTROL Skills Configuration] interface to shape your concierge's expertise by configuring skills like **Product Advisory**. Answer the questionnaire to provide inputs that Adobe consultants will later use for prompt engineering. Skills Configuration has a number of key elements to consider, such as:
+Skills determine what a concierge can do for visitors, such as **Product Advisory** for product recommendations or **Site Advisory** for general brand questions. Select **[!UICONTROL Browse Skills]** to view the available skill catalog and turn on the skills your concierge needs.
 
-* **Skill Selector:** You can choose from available skills, such as Product Advisory for making product recommendations.
-* **Questionnaire:** You will complete a series of prompts to provide product knowledge, business rules, keywords to avoid, and source connections.
-* **Preview:** You have the option to make live tweaks and see how your adjustments impact responses, with links to the preview page.
-* **Enable Meeting Booking:** You can enable visitors to schedule meetings directly with business representatives.
+* **Skill catalog:** Choose from available skills, such as Site Advisory, Product Advisory, and skills that support meeting booking or live chat with a sales representative.
+* **Configuration:** For each skill, set its name, description, and the intents (trigger phrases or topics) that should invoke it.
+* **Integrations:** Attach the integration a skill needs to do its job, or select **[!UICONTROL Use recommended]** to have Composer select one automatically.
+* **Preview:** Test changes immediately in the live preview.
 
 **To configure skills**
 
-1. Navigate to the progress tracker in the Homepage, then click **[!UICONTROL Configure skills]**.
-1. Select a skill (for example, Product Advisory).
-1. Answer the ensuing configuration questions. 
+1. From the concierge, select **[!UICONTROL Browse Skills]**.
+1. Select a skill to turn on (for example, Product Advisory).
+1. Set the skill's name, description, and intents.
+1. Attach the required integration, or select **[!UICONTROL Use recommended]**.
+1. Select **[!UICONTROL Save]** and test the change in the live preview.
 
-   Question examples include: _What should the concierge know about products?_, _What business rules should be followed?_, _Which keywords should be avoided?_
-
-1. Connect relevant [knowledge sources](#knowledge-sources).
-1. Enable additional features (meeting booking).
-1. Submit for processing.
+For the full skill and integration catalog, see [Skills and Integrations Framework](./skills-and-integrations.md).
 
 ### Brand expression {#brand-expression}
 
-You can use the _[!UICONTROL Brand expression]_ interface to customize the personality and style of your concierge's responses. You can access Brand Expression from the setup stages or through the preview sidebar for ongoing changes.
+Brand expression controls the personality and style of your concierge's responses. It is drafted automatically when you create a concierge, and you can access it afterward from the concierge's Tone & Voice settings for ongoing changes.
 
-With Brand Expression, you can use sliders to customize your concierge's voice and tone settings. You can select from options such as "Friendly", "Professional", and "Energetic". Additionally, you can configure response lengths to your liking. You can set your concierge to return short, medium, or long outputs, depending on your brand's vision.
+Brand expression is set using attributes such as formality, warmth, playfulness, and energy, rather than a single named style. You can also configure response length (short, medium, or long) to match your brand's preference.
 
 **To customize your brand expression**
 
-1. From the Homepage, click **[!UICONTROL Customize Brand Expression]**.
-2. Next, configure your brand's voice, tone, and preferred response length.
+1. From the concierge, open **[!UICONTROL Tone & Voice]**.
+2. Adjust formality, warmth, playfulness, energy, and preferred response length.
 3. Select **[!UICONTROL Save]** to ensure that the changes are reflected in future responses.
 
 ### Preview and test {#preview-and-test}
@@ -204,7 +205,7 @@ The _[!UICONTROL Configurations]_ tab is a read-only summary view that you can u
 
 ## What you can do with Brand Concierge
 
-Lean about the customer features, business capabilities, and uses cases for Brand Concierge.
+Learn about the customer features, business capabilities, and use cases for Brand Concierge.
 
 ### Customer features
 
@@ -246,7 +247,7 @@ To provide a transparent and trustworthy experience, Adobe Brand Concierge users
 
 Your in-conversation disclosure should clearly communicate three things to end users.
 
-1. _The converstation uses generative AI_
+1. _The conversation uses generative AI_
 
    Let users know that responses are generated by AI, so they understand they're interacting with an automated system.
 

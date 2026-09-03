@@ -8,10 +8,6 @@ hide: true
 
 Use this checklist to complete a pre-launch readiness review before making a concierge available to real visitors. The checklist consolidates the readiness criteria described in the knowledge sources, concierge management, evaluation, and deployment workflows.
 
->[!NOTE]
->
->Consider publishing this checklist as a standalone page. A standalone page can be linked directly from launch communications and referenced independently of the full documentation set.
-
 ## How to use this checklist
 
 Complete each item before launch, and record the owner or evidence for any item that requires follow-up. Do not proceed to go-live with unresolved issues unless the appropriate product, quality, or launch owner has reviewed and accepted the risk.
@@ -44,9 +40,3 @@ Complete each item before launch, and record the owner or evidence for any item 
 
 - [ ] **Analytics access is confirmed.** Verify that the relevant stakeholders can access the required analytics.
 - [ ] **A review cadence is established.** Establish a recurring process for reviewing conversation transcripts and adding new evaluation questions as they surface.
-
-## Before you publish this checklist as a release requirement
-
->[!IMPORTANT]
->
->This checklist is derived from the workflows described in the guide. It is not an official, product-defined release gate. Validate it against Product- and QA-defined release criteria before publishing it as a formal go-live requirement.

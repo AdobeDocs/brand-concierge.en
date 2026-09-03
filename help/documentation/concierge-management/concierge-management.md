@@ -68,10 +68,10 @@ Select **Browse Integrations** to view the available integration catalog.
 |---|---|---|
 | Knowledge Base Search | Searches website content | Configured automatically when the concierge is created |
 | Content AI Search | Searches AEM Sites content | Relevant for customers of AEM Sites as a Cloud Service |
-| Product Catalog | Displays product cards or links from an uploaded product list | Intended for smaller, non-commerce catalogs |
+| Entity Linking | Resolves product or brand mentions in a visitor's message to specific catalog entities | Supporting integration, typically used alongside a search integration rather than alone |
 | Commerce MCP | Connects to a live Adobe Commerce catalog for product search, product details, and comparisons | Not enabled by default; requires codes or keys from the commerce or IT team |
-| Meeting Booking | Allows visitors to book a meeting with a sales representative | B2B capability |
-| Live Chat | Connects visitors with a live sales representative | B2B capability |
+| Meeting Booking | Allows visitors to book a meeting with a sales representative | Requires setup with a sales representative's calendar |
+| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability |
 
 ### Turn on and configure an integration
 
@@ -90,14 +90,6 @@ Select **Browse Integrations** to view the available integration catalog.
 
 You can add more than one instance of the same integration, such as instances that point to different knowledge sources. A skill can be configured to use a specific integration instance.
 
-### Integration information that requires confirmation
-
-The following details were not established in the source material and should be confirmed before publication as product documentation:
-
-- The full production URL for signing in to `experienceplatform.adobe.com`.
-- Whether a concierge has a limit on the number of integration instances.
-- The roadmap and process for custom or bring-your-own integrations, which were mentioned as planned but not detailed.
-
 ## Configure skills
 
 Skills determine what a concierge can do for visitors. Select **Browse Skills** to view the available skill catalog.
@@ -105,6 +97,7 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 | Skill | Purpose | Required integration or configuration |
 |---|---|---|
 | Site Advisory | Answers general brand questions, including FAQs, policies, pricing, how-to guidance, and support topics | Website content; active by default |
+| Product Advisory | Helps visitors discover and research products through name-based product cards and prose product questions | Knowledge Base Search, Entity Linking |
 | Adobe Commerce Catalog Discovery | Searches, browses, filters, and retrieves details about products from a live catalog | Commerce MCP integration |
 | Adobe Commerce Product Comparison | Provides a side-by-side comparison of named products | Commerce MCP integration |
 | Book Meeting with Sales | Suggests and facilitates booking a meeting | Meeting Booking integration |
@@ -125,10 +118,6 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 >[!TIP]
 >
 >If two skills could respond to the same question, routing can become inconsistent. Keep skill triggers distinct and specific instead of using overlapping intents.
-
-### Custom skill information that requires confirmation
-
-The source material mentions a planned capability for creating fully custom skills but does not provide a roadmap or process. Confirm availability and authoring steps before documenting this capability as supported.
 
 ## Add concierge instructions
 
@@ -185,7 +174,7 @@ Chat components control the individual elements that visitors see in the chat wi
 | Feedback | The thumbs-up or thumbs-down rating control shown after each response |
 | Product card | The layout and styling of product cards, including colors and buttons |
 
-## Configure B2B capabilities
+## Configure meeting booking and live chat
 
 Meeting Booking and Live Chat allow visitors to book meetings with sales representatives or start a live chat with a representative. These capabilities are powered by a companion product called Sales Qualifier.
 
@@ -227,14 +216,6 @@ When the capabilities are live:
 - A Meeting Performance Report is available in analytics.
 - Meeting and chat engagements are sent to Marketo as activities, alongside existing activity data.
 
-### B2B information that requires confirmation
-
-The source material identifies the following items as unresolved:
-
-- Live Chat does not have its own analytics dashboard; this was described as a product gap in progress rather than a documentation gap.
-- The exact `experienceplatform.adobe.com` sign-in path for Sales Qualifier.
-- Whether Meeting Booking and Live Chat require separate licensing or entitlements.
-
 ## Share a preview link
 
 A shareable preview link lets stakeholders review and interact with a concierge without Composer access and without deploying the concierge to a live website.
@@ -244,14 +225,6 @@ A shareable preview link lets stakeholders review and interact with a concierge 
 1. Share the link with reviewers.
 
 1. Reviewers can interact with the concierge through the link without signing in to Composer.
-
-### Preview-link information that requires confirmation
-
-Confirm the following details before publishing this procedure as a complete product workflow:
-
-- The exact location and label of the share action in the user interface.
-- Whether preview links expire or can be revoked.
-- Whether preview-link usage is tracked separately from live analytics.
 
 ## Test before deployment
 
