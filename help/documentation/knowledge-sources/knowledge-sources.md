@@ -26,7 +26,7 @@ Brand Concierge supports the following knowledge source types:
 
 >[!IMPORTANT]
 >
->Customers selling through Adobe Commerce with a large catalog should use the Commerce MCP integration instead. Details about that integration are outside the scope of this article.
+>Customers selling through Adobe Commerce with a large catalog should use the Commerce MCP integration instead.
 
 ## Create an AEM Sites knowledge source
 
