@@ -74,3 +74,7 @@ The CJA dashboard includes:
 - Concierge recommendations made during conversations.
 
 Use the dashboard to examine trends over time and identify changes in visitor engagement, feedback, intent, and sentiment.
+
+>[!IMPORTANT]
+>
+>Do not treat conversation IDs as an export workflow. A dedicated walkthrough from Product or Engineering is required before documenting how to export conversations or transcripts.
