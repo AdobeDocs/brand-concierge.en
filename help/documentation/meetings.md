@@ -1,6 +1,6 @@
 ---
-title: Set Up and Configure Meetings
-description: Learn how to set up and configure meetings in Adobe Brand Concierge.
+title: Set Up and Configure Meeting Booking
+description: Learn how to configure meeting booking in Adobe Brand Concierge, including calendar connections, availability, member access, and performance analytics.
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
@@ -16,7 +16,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Meetings {#meetings}
+# Meeting Booking {#meetings}
 
 Get to know all of your _Meeting_ settings in Adobe Brand Concierge. Connect your calendar, set availability, view analytics, and more. 
 
