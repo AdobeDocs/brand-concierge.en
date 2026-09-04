@@ -16,6 +16,8 @@ A concierge answers questions using only its configured knowledge sources. It do
 
 ## Choose a knowledge source
 
+Brand Concierge supports the following knowledge source types:
+
 | Knowledge source | Use it when | Main capability |
 | --- | --- | --- |
 | AEM Sites (Content AI index) | The customer uses AEM Sites as a Cloud Service with Content AI enabled. | Uses an existing Content AI index and makes updated AEM Sites content available without a separate crawl or refresh step. |
@@ -24,7 +26,7 @@ A concierge answers questions using only its configured knowledge sources. It do
 
 >[!IMPORTANT]
 >
->The source material notes that customers selling through Adobe Commerce with a large catalog should use the Commerce MCP integration instead. Details about that integration are outside the scope of this article.
+>Customers selling through Adobe Commerce with a large catalog should use the Commerce MCP integration instead. Details about that integration are outside the scope of this article.
 
 ## Create an AEM Sites knowledge source
 

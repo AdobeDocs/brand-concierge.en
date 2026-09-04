@@ -58,27 +58,31 @@ An integration provides capability but exercises no judgment. It waits to be cal
 
 ## Integrations available out of the box
 
-Below are the four integrations shown in Composer's **Browse integrations** panel.
+Below are the integrations shown in Composer's **Browse integrations** panel.
 
 | Integration | What it does | Notes |
 | --- | --- | --- |
 | Knowledge Base Search | Source for a brand's product info, pricing, features, and documentation, populated through site crawl | This one is auto-created at concierge creation, populated by the site crawl |
 | Content AI Search | Searches the brand's content via Content AI | An alternative content source; typically only one of Knowledge Base Search or Content AI Search is required at a time |
-| Entity Linking/Product Catalog mapping | Resolves product or brand mentions in a user's message to specific catalog entities | Supporting integration, used alongside a search integration rather than alone |
+| Entity Linking | Resolves product or brand mentions in a user's message to specific catalog entities | Supporting integration, used alongside a search integration rather than alone |
 | Commerce MCP | Adobe-managed Commerce MCP server: product search, details, variants, and facet/attribute discovery, backed by Adobe Live Search | Not in the baseline; added manually for Commerce use cases |
+| Meeting Booking | Lets visitors book a meeting with a sales representative | Requires setup with a sales representative's calendar, through the companion Sales Qualifier product |
+| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability, through the companion Sales Qualifier product |
 
 ![Browse integrations panel showing four integration cards: Content AI Search, Entity Linking, Knowledge Base Search, and Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
 ## Skills available out of the box
 
-Four skills ship in the catalog. Each one lists its recommended integrations.
+Below are the skills shown in Composer's **Browse skills** panel. Each one lists its recommended integrations.
 
 | Skill | What it is for | Recommended integrations |
 | --- | --- | --- |
 | Site Advisory | General brand questions: policies, FAQs, programs, how-to, and support | Knowledge Base Search, Content AI Search, and Entity Linking |
-| Product Advisory | Discover and research products: name-based product cards and prose product questions | Knowledge Base Search, Entity Linking/Catalog mapping |
+| Product Advisory | Discover and research products: name-based product cards and prose product questions | Knowledge Base Search, Entity Linking |
 | Adobe Commerce Catalog Discovery | Search, browse, filter, and get full details on products against a live catalog | Commerce MCP tools: Search Commerce Products, Product Details, Product Variants, Product Facets, and Searchable Attributes |
 | Adobe Commerce Product Comparison | Side-by-side comparison of two or more named products in a table for Commerce | Commerce MCP tools: Search Commerce Products, Product Details |
+| Book Meeting with Sales | Suggests and facilitates booking a meeting with a sales representative | Meeting Booking integration |
+| Live Chat with Sales | Suggests and facilitates a live chat handoff to a sales representative | Live Chat integration |
 
 The two commerce skills are catalog-only capabilities and depend on the Commerce MCP integration, which is not part of the baseline. In a non-commerce concierge, Site Advisory and Product Advisory run against the auto-created Knowledge Base Search instead.
 

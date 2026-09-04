@@ -33,17 +33,17 @@ user-guide-description: Explore Adobe Brand Concierge
     + {hide-from-toc} [Add a user to the role](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc} [Create a role](../documentation/user-and-access-management/create-a-role.md)
   + Knowledge sources {#knowledge-sources}
-    + {hide-from-toc} [ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + {hide-from-toc} [Create and manage knowledge sources for Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge management {#concierge-management}
-    + {hide-from-toc} [cm](../documentation/concierge-management/concierge-management.md)
+    + {hide-from-toc} [Manage a concierge](../documentation/concierge-management/concierge-management.md)
   + Evaluation {#evaluation}
-    + {hide-from-toc} [e](../documentation/evaluation/evaluation.md)
+    + {hide-from-toc} [Evaluate a concierge](../documentation/evaluation/evaluation.md)
   + Deployment {#deployment}
-    + {hide-from-toc} [d](../documentation/deployment/deployment.md)
+    + {hide-from-toc} [Deploy a concierge](../documentation/deployment/deployment.md)
   + Go-live checklist {#go-live-checklist}
-    + {hide-from-toc} [glc](../documentation/go-live-checklist/go-live-checklist.md)
+    + {hide-from-toc} [Go-live checklist for a concierge](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc} [a](../documentation/analytics/analytics.md)
+    + {hide-from-toc} [Analyze concierge performance](../documentation/analytics/analytics.md)
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
 + {hide-from-toc} [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)

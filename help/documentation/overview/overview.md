@@ -15,17 +15,17 @@ A Brand Concierge deployment has two major pieces:
 | **Visitor Experience** | The brand-facing surface, such as a website or mobile app, where visitors engage with the concierge and get responses in real time. |
 | **Composer** | The practitioner interface used to design concierge experiences and manage concierges, integrations, configurations, evaluations, deployment, and analytics. |
 
-## Composer modules covered in this guide
+## Composer modules
 
-Within Composer, the major modules (and where they are covered in this guide) are:
+Within Composer, the major modules are:
 
-- User management (Section 3)
-- Knowledge source creation and management, shared across concierges (Section 4)
-- Concierge management: integrations, skills, concierge instructions, tone and voice, visual style, and chat components (Section 5)
-- Evaluation (Section 6)
-- Deployment (Section 7)
-- Go-Live Checklist (Section 8)
-- Analytics (Section 9)
+- [User and access management](../user-and-access-management/add-a-user-to-the-org.md)
+- [Knowledge source creation and management](../knowledge-sources/knowledge-sources.md), shared across concierges
+- [Concierge management](../concierge-management/concierge-management.md): integrations, skills, concierge instructions, tone and voice, visual style, and chat components
+- [Evaluation](../evaluation/evaluation.md)
+- [Deployment](../deployment/deployment.md)
+- [Go-live checklist](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## How the pieces connect
 
@@ -52,4 +52,4 @@ These terms appear throughout Composer's interface.
 
 >[!NOTE]
 >
->Marketers can usually skip Section 3, *User and Access Management*, entirely (someone in IT completes it once) and start at Section 4, *Knowledge Sources*. Return to Section 3 only when setting up new teammates.
+>Marketers can usually skip [User and Access Management](../user-and-access-management/add-a-user-to-the-org.md) entirely (someone in IT completes it once) and start at [Knowledge Sources](../knowledge-sources/knowledge-sources.md). Return to user and access management only when setting up new teammates.
