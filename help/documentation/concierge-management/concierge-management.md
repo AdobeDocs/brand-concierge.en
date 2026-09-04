@@ -156,10 +156,6 @@ Visual style settings control the concierge's appearance, including but not limi
 
 Edit the settings in the user interface and use the live preview to review changes. Select **Save** to make the changes permanent.
 
->[!NOTE]
->
->The source material states that a fully custom look and feel may be possible beyond the options available in the user interface, through a separate deployment script. The deployment-script procedure was not included and should be documented separately after it is confirmed.
-
 ## Configure chat components
 
 Chat components control the individual elements that visitors see in the chat window. Select a component in the user interface to open its settings in a side panel.
