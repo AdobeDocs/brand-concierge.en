@@ -9,6 +9,26 @@ Adobe Brand Concierge follows a continuous delivery model, allowing Adobe to del
 
 All features are generally available unless indicated otherwise.
 
+## August 2026 {#august-2026}
+
+* **Composer 2.0**: Concierge creation is redesigned around a single website URL. Composer automatically drafts a brand-aligned starting point, including brand expression, brand profile, instructions, guardrails, a knowledge source, and a baseline skill, ready to review and go live in minutes with no manual configuration required to get started.
+
+* **Skills and Integrations Framework**: Concierges are built from a self-serve catalog of skills and integrations, discoverable and configurable through Browse Skills and Browse Integrations. This includes both new and previously released capabilities, such as Site Advisory, Product Advisory, and Commerce catalog discovery and comparison.
+
+* **Visual Style and Chat Component Customization**: Customize a concierge's colors, fonts, welcome message, and individual chat components, including chat bubbles, prompt suggestions, citations, feedback controls, and product cards, with changes previewed live.
+
+* **Multiple Concierges per Sandbox**: Create and manage multiple concierges within a single sandbox, each with independent configuration.
+
+* **Client-Side Events and Callback Functions**: Register a single callback to observe Web Client lifecycle events, user interactions, responses, feedback, and errors in real time, for use in sending engagement data to Adobe Analytics, Google Analytics, or other third-party systems.
+
+* **Multilingual Concierge Support (Limited Availability)**: Deploy a concierge in additional languages alongside English, with validated support for Spanish and French. Each target language runs as its own concierge within the same sandbox and is automatically routed by request language.
+
+* **Deployment: Datastream and Surface Configuration**: Configure a datastream to track visitor engagement, then define surface rules to control which pages and domains the concierge appears on, using domain and path matching (any, starts with, ends with, or exact match).
+
+## June 2026 {#june-2026}
+
+* **Marketo Integration**: Visitor conversations, including in-chat lead capture, flow automatically into Marketo Engage as native activity data, available for use in both trigger and batch Smart Campaigns.
+
 ## April 2026 {#april-2026}
 
 * **Brand Concierge Integration with Real-Time CDP (Limited Availability)**: Enhance the quality and relevance of conversational responses by incorporating Real-Time CDP context, such as user attributes, behavioral signals, and prior interactions to better align replies with user intent.
