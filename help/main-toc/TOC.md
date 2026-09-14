@@ -10,6 +10,7 @@ user-guide-description: Explore Adobe Brand Concierge
 + Get started videos {#getting-started}
   + [Create your first concierge](../getting-started/create-first-concierge.md)
   + [Book a meeting](../getting-started/meeting-booking.md)
+  + [Voice conversation](../getting-started/voice-conversation.md)
   + [Learn about datastream IDs](../getting-started/learn-about-datastream-ids.md)
   + [Integration with Marketo](../getting-started/integration-with-marketo.md)
   + [Customize your concierge's visual style](../getting-started/customize-visual-style.md)
@@ -47,4 +48,3 @@ user-guide-description: Explore Adobe Brand Concierge
 + Release notes {#release-notes}
   + [Current release info](../release-notes/current.md)
 + {hide-from-toc} [Demo for brand concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)
-+ [Voice conversation](../getting-started/voice-conversation.md)
