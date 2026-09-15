@@ -11,7 +11,7 @@ jira: KT-22594
 ---
 # Voice conversation
 
-Adobe Brand Concierge supports a hands-free, voice-to-voice conversation mode that lets customers speak with the concierge instead of typing. This video walks through enabling voice mode, how automatic speech detection removes the need to press any buttons, and how voice fits into the concierge's full multimodal experience alongside text and visual responses.
+Adobe Brand Concierge supports a hands-free, voice-to-voice conversation mode that lets customers speak with the concierge instead of typing. This video describes enabling voice mode, how automatic speech detection removes the need to press any buttons, and how voice fits into the concierge's full multimodal experience alongside text and visual responses.
 
 ## Who is this video for?
 
