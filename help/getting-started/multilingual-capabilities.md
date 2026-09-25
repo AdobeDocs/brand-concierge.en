@@ -5,7 +5,7 @@ topic: Personalization
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 223
+duration: 179
 last-substantial-update: 2026-09-25
 jira: KT-22689
 ---
@@ -23,8 +23,6 @@ Adobe Brand Concierge can respond in the language selected when you create a con
 
 * How to create English and French Brand Concierge instances using the same website as the knowledge source
 * How the selected response language affects answers and starter prompt cards
-* How a French concierge responds in French to English and French questions
-* How an English concierge responds in English when a visitor asks a question in French
 * How imported knowledge sources, such as catalogs and website URLs, support localized responses
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
