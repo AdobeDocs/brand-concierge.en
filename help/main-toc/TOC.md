@@ -9,6 +9,7 @@ user-guide-description: Explore Adobe Brand Concierge
 + [Brand Concierge](../home.md)
 + Get started videos {#getting-started}
   + [Create your first concierge](../getting-started/create-first-concierge.md)
+  + [Multilingual capabilities](../getting-started/multilingual-capabilities.md)
   + [Book a meeting](../getting-started/meeting-booking.md)
   + [Voice conversation](../getting-started/voice-conversation.md)
   + [Learn about datastream IDs](../getting-started/learn-about-datastream-ids.md)
