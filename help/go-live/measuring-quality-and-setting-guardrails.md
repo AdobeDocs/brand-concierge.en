@@ -1,5 +1,5 @@
 ---
-title: Measure Quality and Set Guardrails - Video
+title: Measure Quality and Set Guardrails
 description: Learn how to build a golden set of questions and ideal answers to measure Adobe Brand Concierge quality, and define guardrails for sensitive visitor questions.
 topic: Personalization,Integrations
 role: Developer
@@ -27,7 +27,6 @@ Before you launch Adobe Brand Concierge, you need a way to measure whether it gi
 * How many question-and-answer pairs to include and which categories to cover
 * Why out-of-scope examples matter and how the concierge declines them
 * Using an AI-generated first draft of your golden set and refining it
-* Defining rules for meeting booking, live-representative handoff, pricing, legal claims, and competitor mentions
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
