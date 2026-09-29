@@ -21,6 +21,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Welcome to your go-live journey](../go-live/welcome.md)
   + [Preparing your content and visitor experience](../go-live/content-and-journey.md)
   + [Shaping your voice and widget](../go-live/voice-and-visuals.md)
+  + [Measuring quality and setting guardrails](../go-live/measuring-quality-and-setting-guardrails.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
