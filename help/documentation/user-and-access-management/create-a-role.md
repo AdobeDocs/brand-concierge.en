@@ -1,6 +1,9 @@
 ---
 title: Create a role with Brand Concierge permission
 description: Learn how to create a role and grant it the permission required to access Brand Concierge.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Create a role with Brand Concierge permission

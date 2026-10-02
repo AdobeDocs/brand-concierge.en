@@ -1,6 +1,9 @@
 ---
 title: Build and test your first Brand Concierge
 description: Create a concierge, customize the brand experience, run evaluations, and share a preview link for stakeholder feedback.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 # Build and test your first Brand Concierge
 

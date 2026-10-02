@@ -2,6 +2,9 @@
 title: Manage a concierge
 description: Learn how to create a Brand Concierge from a website, configure its integrations, skills, instructions, tone, and visual style, and test it before deployment.
 toc: true
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Manage a concierge
