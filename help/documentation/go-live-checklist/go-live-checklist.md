@@ -2,6 +2,9 @@
 title: Go-live checklist for a concierge
 description: Use this checklist to review concierge readiness before making it available to real visitors and to establish the initial post-launch operating cadence.
 hide: true
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Go-live checklist for a concierge

@@ -2,6 +2,9 @@
 title: Analyze concierge performance
 description: Learn to review concierge analytics, inspect conversation transcripts, add visitor questions to evaluation sets, and open Customer Journey Analytics reports.
 hide: true
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Analyze concierge performance

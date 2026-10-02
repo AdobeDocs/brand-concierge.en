@@ -1,6 +1,9 @@
 ---
 title: Brand Concierge overview
 description: Learn what Brand Concierge is, how its main components fit together, and the glossary of key terms you will encounter throughout the Composer interface.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 # Brand Concierge overview
 

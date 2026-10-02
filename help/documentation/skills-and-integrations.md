@@ -3,6 +3,17 @@ title: Skills and Integrations Framework
 description: Learn how skills and integrations work together in the concierge framework. Skills define behavior, while integrations connect to data and provide capability.
 role: User, Admin
 level: Beginner
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Skills and Integrations Framework {#skills-and-integrations}
 

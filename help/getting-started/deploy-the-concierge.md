@@ -1,13 +1,22 @@
 ---
 title: Deploy the concierge
-description: "Learn how to deploy Adobe Brand Concierge: configure a datastream to track visitor engagement, then set rules for where the concierge appears on your site."
+description: 'Learn how to deploy Adobe Brand Concierge: configure a datastream to track visitor engagement, then set rules for where the concierge appears on your site.'
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2026-09-02
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22483
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Deploy the concierge
 

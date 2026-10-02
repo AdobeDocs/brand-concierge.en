@@ -2,6 +2,9 @@
 title: Evaluate a concierge
 description: Learn how to create evaluation sets and run functional, out-of-scope, and safeguard evaluations to assess the accuracy and safety of a concierge's responses.
 hide: true
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Evaluate a concierge

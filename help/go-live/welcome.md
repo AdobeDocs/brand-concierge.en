@@ -6,8 +6,17 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10
+last-substantial-update: 2026-07-10T00:00:00.000Z
 jira: KT-21745
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 
 # Welcome to your go-live journey

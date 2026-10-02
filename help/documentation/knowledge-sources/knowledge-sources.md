@@ -2,6 +2,9 @@
 title: Create and manage knowledge sources for Brand Concierge
 description: Learn how to create AEM Sites, Website Links, and Product Catalog knowledge sources for Brand Concierge, monitor processing status, and resolve crawl issues.
 hide: true
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 ---
 
 # Create and manage knowledge sources for Brand Concierge
