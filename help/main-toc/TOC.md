@@ -23,6 +23,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Shaping your voice and widget](../go-live/voice-and-visuals.md)
   + [Measuring quality and setting guardrails](../go-live/measuring-quality-and-setting-guardrails.md)
   + [Technical setup and optional features](../go-live/technical-setup-and-optional-features.md)
+  + [Your Pre-Go-Live Checklist and Rollout Plan](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
