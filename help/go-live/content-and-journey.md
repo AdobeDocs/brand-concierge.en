@@ -37,9 +37,14 @@ Adobe Brand Concierge can only answer questions as well as the content you provi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
 
-## Related videos in this series
+## Related tutorials
 
 * [Welcome to your go-live journey](welcome.md)
+* [Shaping your voice and widget](voice-and-visuals.md)
+* [Measuring quality and setting guardrails](measuring-quality-and-setting-guardrails.md)
+* [Technical setup and optional features](technical-setup-and-optional-features.md)
+* [Your pre-go-live checklist and rollout plan](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## Documentation
 
