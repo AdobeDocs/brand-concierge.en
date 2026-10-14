@@ -17,6 +17,7 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Customize your concierge's visual style](../getting-started/customize-visual-style.md)
   + [Learn about evaluation sets](../getting-started/learn-about-evaluation-sets.md)
   + [Deploy the concierge](../getting-started/deploy-the-concierge.md)
+  + [Exporting conversations using Adobe CX Enterprise Coworker](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
 + Go-live guide {#go-live-guide}
   + [Welcome to your go-live journey](../go-live/welcome.md)
   + [Preparing your content and visitor experience](../go-live/content-and-journey.md)
