@@ -21,13 +21,13 @@ Voice conversations in Adobe Brand Concierge let your visitors speak with a conc
 
 ## How to enable voice
 
-1. On the **Home** screen, under **Your Concierges**, select the concierge you want to edit.
+1. On the **Home** screen, under **Your Concierges**, select the concierge where you want to enable voice.
 
-   ![Brand Concierge Home screen with the Adobe concierge card highlighted under Your Concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Concierge Home screen with the Adobe concierge card highlighted under Your Concierges](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. In the **Design** tab, select **Voice**.
 
-   ![Design tab of a concierge with the Voice option highlighted in the left panel under Brand Expression](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![Design tab of a concierge with the Voice option highlighted in the left panel under Brand Expression](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -57,7 +57,7 @@ Voice does not limit the concierge to audio. During a voice conversation, the co
 
 ## How to disable voice
 
-1. On the **Home** screen, under **Your Concierges**, select the concierge you want to edit.
+1. On the **Home** screen, under **Your Concierges**, select the concierge where you want to disable voice.
 
 1. In the **Design** tab, select **Voice**.
 
