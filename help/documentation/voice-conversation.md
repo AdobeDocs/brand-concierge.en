@@ -1,6 +1,6 @@
 ---
-title: Enable voice conversations in Brand Concierge
-description: Description.
+title: Enable voice conversations
+description: Enable Dictation and Voice Mode in Brand Concierge so visitors can talk hands-free and still get text, images, and links in the concierge's responses.
 role: User, Admin
 level: Beginner
 product_v2:
@@ -15,49 +15,50 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Enable voice conversations in Brand Concierge
+# Enable voice conversations
 
-Configure voice input and spoken responses for a Brand Concierge. You can enable either capability independently or turn on both for a voice-based conversation.
+Voice conversations in Adobe Brand Concierge let your visitors speak with a concierge instead of typing. Voice supports hands-free interactions and keeps the experience multimodal, so the concierge can still provide text, images, and links.
 
 ## How to enable voice
 
-1. On the **Home** screen, under **Your Concierges**, select the desired Concierge.
+1. On the **Home** screen, under **Your Concierges**, select the concierge you want to edit.
 
-   SCREENSHOT
+   ![Brand Concierge Home screen with the Adobe concierge card highlighted under Your Concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
 
-2. Select the **Design** tab.
-3. In the left menu, select **Voice**.
-4. In the Voice panel, enable the options you need:
-   - **Dictation** — Transcribes what the user says into text.
-   - **Voice Mode** — Reads the Concierge's responses aloud.
-5. Select **Save** at the bottom of the Voice panel. **Save** is unavailable until you change a setting.
+1. In the **Design** tab, select **Voice**.
 
-Both options are off by default. Enable both for spoken input and spoken responses.
+   ![Design tab of a concierge with the Voice option highlighted in the left panel under Brand Expression](assets/voice-conversations-2.png){width="800" zoomable="yes"}
 
-OTHER VERSION
+   >[!NOTE]
+   >
+   >The first time you enable voice, you must review the privacy notice before continuing.
 
-## Enable and use voice conversations in Adobe Brand Concierge
+1. In the _Voice_ panel, enable the options you want, and then select **Save**.
+   - **Dictation**: Transcribes what your visitors say into text.
+   - **Voice Mode**: Reads the concierge's responses aloud.
 
-Adobe Brand Concierge voice conversations let visitors speak with a concierge instead of typing. Voice Mode supports hands-free interactions while keeping the experience multimodal: the concierge can still provide text, images, and links.
+   ![Voice panel with the Dictation and Voice Mode toggles turned on and the Save button at the bottom](assets/voice-conversations-3.png)
 
-## Enable Voice Mode
+   >[!NOTE]
+   >
+   >The available controls might vary depending on your concierge's configuration.
 
-1. Open concierge management and select the concierge you want to configure.
-2. Turn on **Voice Mode**.
-3. The first time voice is used, review the privacy notice shown in the experience before continuing.
+## The visitor experience
 
-The specific controls available can depend on your concierge's configuration.
+### Visitors can speak naturally
 
-## Start a voice conversation
+After you enable voice, visitors can speak naturally to the concierge. Automatic speech detection starts and stops listening, so visitors do not have to select a button for each turn.
 
-After Voice Mode is enabled, speak naturally to the concierge. Automatic speech detection starts and stops listening without requiring you to press a button for each turn.
+Visitors can also interrupt the concierge while it is speaking, so they do not have to wait for the response to finish.
 
-You can continue the conversation with follow-up questions. Voice conversations also support natural interruptions while the concierge is speaking, so you can speak again rather than waiting for the response to finish.
+### Text and visual responses
 
-## Get text and visual responses
+Voice does not limit the concierge to audio. During a voice conversation, the concierge can still return text, images, and links as part of its response.
 
-Voice Mode does not limit the concierge to audio. During a voice conversation, the concierge can still return text, images, and links as part of its response.
+## How to disable voice
 
-## Turn off Voice Mode
+1. On the **Home** screen, under **Your Concierges**, select the concierge you want to edit.
 
-If voice is no longer wanted for the concierge experience, turn off **Voice Mode** in concierge management.
+1. In the **Design** tab, select **Voice**.
+
+1. In the _Voice_ panel, disable the options you want to turn off, and then select **Save**.
