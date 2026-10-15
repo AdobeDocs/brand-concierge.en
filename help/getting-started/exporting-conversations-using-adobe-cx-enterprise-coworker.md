@@ -5,7 +5,7 @@ topic: Data Distiller
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 173
+duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
 ---
@@ -31,3 +31,7 @@ Learn how to save and export Adobe Brand Concierge conversations using Adobe Exp
 > If Data Distiller is not available in your organization, Coworker cannot create the CSV download shown in this video.
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
+
+## Related tutorials
+
+* [Exporting conversations using query service and terminal](exporting-conversations-using-query-service-and-terminal.md)
