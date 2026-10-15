@@ -28,7 +28,7 @@ Learn how to save and export Adobe Brand Concierge conversations using Adobe Exp
 
 >[!NOTE]
 >
-> If Data Distiller is not available in your organization, Coworker cannot create the CSV download shown in this video. Select [Watch the Query Service and Terminal video](https://video.tv.adobe.com/v/3504643) to learn how to export conversation data to a CSV file using Terminal instead.
+> If Data Distiller is not available in your organization, Coworker cannot create the CSV download shown in this video. Select [Watch the Query Service and Terminal video](exporting-conversations-using-query-service-and-terminal.md) to learn how to export conversation data to a CSV file using Terminal instead.
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
 
