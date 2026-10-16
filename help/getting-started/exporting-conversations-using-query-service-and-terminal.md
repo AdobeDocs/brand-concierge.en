@@ -27,6 +27,10 @@ Learn how to save and export Adobe Brand Concierge conversations using Adobe Exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504643)
 
+```bash
+psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
+```
+
 >[!IMPORTANT]
 >
 > The PSQL connection command contains a live password. Do not share it or paste it into chats, AI agents, or email. If authentication fails after the password expires, copy a fresh command from the Query Service Credentials tab.
