@@ -5,8 +5,8 @@ topic: Personalization
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 215
-last-substantial-update: 2026-09-14T00:00:00.000Z
+duration: 217
+last-substantial-update: 2026-09-14
 jira: KT-22594
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -39,3 +39,4 @@ Adobe Brand Concierge supports a hands-free, voice-to-voice conversation mode th
 >[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
 For documentation, see [Brand Concierge help](../documentation/overview.md).
+For documentation on enabling this feature, see [Enable Voice](../documentation/voice-conversation.md)
