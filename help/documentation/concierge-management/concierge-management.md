@@ -73,8 +73,8 @@ Select **Browse Integrations** to view the available integration catalog.
 | Content AI Search | Searches AEM Sites content | Relevant for customers of AEM Sites as a Cloud Service |
 | Entity Linking | Resolves product or brand mentions in a visitor's message to specific catalog entities | Supporting integration, typically used alongside a search integration rather than alone |
 | Commerce MCP | Connects to a live Adobe Commerce catalog for product search, product details, and comparisons | Not enabled by default; requires codes or keys from the commerce or IT team |
-| Meeting Booking | Allows visitors to book a meeting with a sales representative | Requires setup with a sales representative's calendar |
-| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability |
+| Meeting Booking | Allows visitors to book a meeting with a sales representative | Requires setup with a sales representative's calendar. See [Live chat and meeting booking](../sales-handoff/overview.md) |
+| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability. See [Live chat and meeting booking](../sales-handoff/overview.md) |
 
 ### Turn on and configure an integration
 
@@ -103,8 +103,7 @@ Skills determine what a concierge can do for visitors. Select **Browse Skills** 
 | Product Advisory | Helps visitors discover and research products through name-based product cards and prose product questions | Knowledge Base Search, Entity Linking |
 | Adobe Commerce Catalog Discovery | Searches, browses, filters, and retrieves details about products from a live catalog | Commerce MCP integration |
 | Adobe Commerce Product Comparison | Provides a side-by-side comparison of named products | Commerce MCP integration |
-| Book Meeting with Sales | Suggests and facilitates booking a meeting | Meeting Booking integration |
-| Live Chat with Sales | Suggests and facilitates a live chat handoff | Live Chat integration |
+| Handoff to sales | Suggests and facilitates a live chat with a sales representative or a meeting booking | Live Chat integration, Meeting Booking integration |
 
 ### Turn on and configure a skill
 
@@ -175,34 +174,22 @@ Chat components control the individual elements that visitors see in the chat wi
 
 ## Configure meeting booking and live chat
 
-Meeting Booking and Live Chat allow visitors to book meetings with sales representatives or start a live chat with a representative. These capabilities are powered by a companion product called Sales Qualifier.
+Meeting Booking and Live Chat allow visitors to book meetings with sales representatives or start a live chat with a representative. These capabilities are powered by a companion product called [!DNL Adobe Marketo Qualifier], and are offered to visitors through the **[!UICONTROL Handoff to sales]** skill.
 
 ### Roles and responsibilities
 
-- **Marketer:** Configures the skill and integration in Brand Concierge.
-- **Sales representative:** Connects their own calendar and configures availability.
+- **Marketer:** Configures the skill and integrations in Brand Concierge.
+- **Sales representative:** Connects their own calendar and configures availability in [!DNL Adobe Marketo Qualifier].
 
 ### Set up Meeting Booking or Live Chat
 
-1. In **Browse Integrations**, open **Meeting Booking** or **Live Chat**. By default, everyone in the organization is available as a potential team member; no separate step is required to add team members at this stage.
+For the full procedure, see [Live chat and meeting booking](../sales-handoff/overview.md). The setup has four parts:
 
-1. Have each sales representative sign in to `experienceplatform.adobe.com`, open **Sales Qualifier**, and go to **Profile Settings**.
+1. [Set up representatives in Adobe Marketo Qualifier](../sales-handoff/representative-setup.md) — connect a calendar, define the confirmation email, and set calendar and live chat availability.
 
-1. Have each representative connect a calendar, such as Outlook. Microsoft Teams can optionally be included. The representative can also set the meeting invitation subject and email text.
+1. [Route conversations to representatives](../sales-handoff/routing-rules.md) — choose round robin, a direct agent, or custom routing rules.
 
-1. Configure availability. Availability is pulled from the calendar by default and can be further limited by:
-   - Meeting length
-   - Buffer time between meetings
-   - Minimum required notice
-   - Specific available time windows
-
-1. Configure Live Chat availability separately, using a similar process.
-
-1. In Brand Concierge, open **Managed Members** and confirm that the representatives are shown as available.
-
-1. Turn on the **Meeting Booking** and/or **Live Chat** integration.
-
-1. Go to **Browse Skills** and select **Book Meeting with Sales** and/or **Live Chat with Sales**. Set the triggers, attach the corresponding integration, and save the skill.
+1. [Add live chat and meeting booking to a concierge](../sales-handoff/configure-in-composer.md) — connect the **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations, then activate the **[!UICONTROL Handoff to sales]** skill.
 
 1. Select **Simulate** to test the end-to-end experience. Enter a sample question and confirm that it routes to the correct skill and engagement flow.
 
@@ -210,10 +197,9 @@ Meeting Booking and Live Chat allow visitors to book meetings with sales represe
 
 When the capabilities are live:
 
-- Incoming live chats appear to available representatives in real time.
-- Booked meetings appear in a meetings view.
-- A Meeting Performance Report is available in analytics.
-- Meeting and chat engagements are sent to Marketo as activities, alongside existing activity data.
+- Incoming live chats appear to available representatives in real time in the [chat inbox](../sales-handoff/chat-inbox.md).
+- Booked meetings appear in a meetings view, and a Meeting Performance Report is available in analytics. See [Monitor meetings and live chats](../sales-handoff/monitor.md).
+- Meeting and chat engagements are sent to Marketo as activities, alongside existing activity data. See [Brand Concierge data in Marketo Engage](../sales-handoff/marketo-activities.md).
 
 ## Share a preview link
 

@@ -34,4 +34,4 @@ Learn how Brand Concierge closes the loop between your website and Marketo Engag
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-For documentation, see [Brand Concierge help](../documentation/overview.md).
+For documentation, see [Brand Concierge data in Marketo Engage](../documentation/sales-handoff/marketo-activities.md).

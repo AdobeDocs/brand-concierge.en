@@ -46,4 +46,4 @@ Learn about the booking a meeting capability found in Adobe Brand Concierge. In 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-For more documentation, see [Meetings](../documentation/meetings.md).
+For more documentation, see [Live chat and meeting booking](../documentation/sales-handoff/overview.md).

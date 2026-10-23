@@ -12,6 +12,22 @@ Adobe Brand Concierge follows a continuous delivery model, allowing Adobe to del
 
 All features are generally available unless indicated otherwise.
 
+## October 2026 {#october-2026}
+
+* **Conversation Scoring for Live Chat**: Sales representatives rate every live chat before closing it, on a 0 to 3 scale from least to most qualified. The score is stored on the lead record and is available as a constraint on Marketo Engage filters and triggers, so it can drive lead scoring, retargeting, personalization, and CRM handoff. See [Score the conversation](../documentation/sales-handoff/chat-inbox.md#conversation-score).
+
+* **Brand Concierge Activities in the Marketo Engage Profile**: Concierge engagement is written to the Marketo person record as three native activity types: Engage with Concierge, Schedule Meeting in Concierge, and Engage with Live Chat in Concierge. All three are available as triggers and filters in Smart Lists, with constraints such as conversation score, meeting status, routing type, and sales representative. See [Brand Concierge data in Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
+
+* **Full Marketo Profile in the Visitor Panel**: The chat inbox shows the visitor's profile alongside the conversation, including the details they shared in the pre-chat form, so representatives have full context before they reply.
+
+* **Multi-Channel Routing Notifications**: Representatives are notified of incoming live chats across channels, so chats are picked up faster.
+
+## September 2026 {#september-2026}
+
+* **Live Chat and Meeting Booking in Composer 2.0**: Live Chat and Meeting Booking are available as built-in integrations in Composer's Browse Integrations panel, and the new Handoff to sales skill decides when to offer them based on visitor intent. See [Add live chat and meeting booking to a concierge](../documentation/sales-handoff/configure-in-composer.md).
+
+* **Custom Routing Rules**: Build routing rules on Marketo lead and company attributes to send visitors to the right representative, using multiple condition groups combined with AND and OR, prioritized rules, and multiple assigned representatives. Custom routing applies to both meeting booking and live chat. See [Route conversations to representatives](../documentation/sales-handoff/routing-rules.md).
+
 ## August 2026 {#august-2026}
 
 * **Composer 2.0**: Concierge creation is redesigned around a single website URL. Composer automatically drafts a brand-aligned starting point, including brand expression, brand profile, instructions, guardrails, a knowledge source, and a baseline skill, ready to review and go live in minutes with no manual configuration required to get started.
