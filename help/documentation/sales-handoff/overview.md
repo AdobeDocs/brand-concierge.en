@@ -85,8 +85,8 @@ Work through these in order.
 
 1. [Set up representatives in Adobe Marketo Qualifier](representative-setup.md) — connect a calendar, define the confirmation email, and set calendar and live chat availability.
 1. [Route conversations to representatives](routing-rules.md) — choose round robin, a direct agent, or custom rules built on [!DNL Marketo] attributes.
-1. [Add live chat and meeting booking to a concierge](configure-in-composer.md) — connect the two integrations and activate the **[!UICONTROL Handoff to sales]** skill.
-1. [Handle live chats in the chat inbox](chat-inbox.md) — what representatives do once a chat arrives, including scoring the conversation.
+1. [Activate Live Chat and Meeting booking](configure-in-composer.md) — connect the two integrations and activate the **[!UICONTROL Handoff to sales]** skill.
+1. [Chat inbox](chat-inbox.md) — what representatives do once a chat arrives, including scoring the conversation.
 1. [Brand Concierge data in Marketo Engage](marketo-activities.md) — the lead fields and activity types written back to [!DNL Marketo], and how to use them in Smart Campaigns.
 1. [Monitor meetings and live chats](monitor.md) — the bookings list and the performance dashboard.
 

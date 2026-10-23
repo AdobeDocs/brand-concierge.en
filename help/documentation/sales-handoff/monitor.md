@@ -27,7 +27,7 @@ Under **[!UICONTROL Activities]**, select **[!UICONTROL Meeting bookings]** to r
 
 ## Review live chats {#chats}
 
-Under **[!UICONTROL Activities]**, select **[!UICONTROL Chat inbox]**, and then open the **[!UICONTROL All]** tab to see every conversation, including ones that have ended. See [Handle live chats in the chat inbox](chat-inbox.md).
+Under **[!UICONTROL Activities]**, select **[!UICONTROL Chat inbox]**, and then open the **[!UICONTROL All]** tab to see every conversation, including ones that have ended. See [Chat inbox](chat-inbox.md).
 
 >[!NOTE]
 >

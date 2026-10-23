@@ -104,7 +104,7 @@ Live chat availability is separate from calendar availability. A representative 
 
 >[!NOTE]
 >
->Availability hours make you *eligible* for chats. Your live status in the chat inbox decides whether you receive them right now. See [Handle live chats in the chat inbox](chat-inbox.md).
+>Availability hours make you *eligible* for chats. Your live status in the chat inbox decides whether you receive them right now. See [Chat inbox](chat-inbox.md).
 
 ## Review who is set up {#manage-members}
 

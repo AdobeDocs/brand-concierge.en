@@ -92,7 +92,7 @@ Below are the skills shown in Composer's **Browse skills** panel. Each one lists
 | Product Advisory | Discover and research products: name-based product cards and prose product questions | Knowledge Base Search, Entity Linking |
 | Adobe Commerce Catalog Discovery | Search, browse, filter, and get full details on products against a live catalog | Commerce MCP tools: Search Commerce Products, Product Details, Product Variants, Product Facets, and Searchable Attributes |
 | Adobe Commerce Product Comparison | Side-by-side comparison of two or more named products in a table for Commerce | Commerce MCP tools: Search Commerce Products, Product Details |
-| Handoff to sales | Connects visitors with a company consultant via the available tools: suggests and facilitates a live chat or a meeting booking. See [Add live chat and meeting booking to a concierge](sales-handoff/configure-in-composer.md) | Live Chat, Meeting Booking |
+| Handoff to sales | Connects visitors with a company consultant via the available tools: suggests and facilitates a live chat or a meeting booking. See [Activate Live Chat and Meeting booking](sales-handoff/configure-in-composer.md) | Live Chat, Meeting Booking |
 
 The two commerce skills are catalog-only capabilities and depend on the Commerce MCP integration, which is not part of the baseline. In a non-commerce concierge, Site Advisory and Product Advisory run against the auto-created Knowledge Base Search instead.
 

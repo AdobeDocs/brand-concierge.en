@@ -1,5 +1,5 @@
 ---
-title: Add Live Chat and Meeting Booking to a Concierge
+title: Activate Live Chat and Meeting Booking
 description: Connect the Live Chat and Meeting Booking integrations in Composer, then activate the Handoff to sales skill so your concierge knows when to offer a human.
 role: User, Admin
 level: Beginner
@@ -15,7 +15,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Add live chat and meeting booking to a concierge {#configure-in-composer}
+# Activate Live Chat and Meeting booking {#configure-in-composer}
 
 Two things have to be in place in Composer. The **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations give the concierge the *ability* to check availability, start a chat, and book a slot. The **[!UICONTROL Handoff to sales]** skill tells it *when* to use that ability.
 
@@ -121,4 +121,4 @@ When the behavior is right, publish your concierge to make the handoff live on y
 
 ## Next step {#next}
 
-Your representatives can now receive chats. See [Handle live chats in the chat inbox](chat-inbox.md).
+Your representatives can now receive chats. See [Chat inbox](chat-inbox.md).

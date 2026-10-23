@@ -29,7 +29,7 @@ You pick a routing type separately for the **[!UICONTROL Meeting Booking]** inte
 | **[!UICONTROL Direct agent]** | One representative you name | No |
 | **[!UICONTROL Custom routing]** | The representatives assigned to the highest-priority routing rule the visitor qualifies for | Yes |
 
-Round robin is available by default and needs no configuration. You set the routing type on the integration itself. See [Add live chat and meeting booking to a concierge](configure-in-composer.md).
+Round robin is available by default and needs no configuration. You set the routing type on the integration itself. See [Activate Live Chat and Meeting booking](configure-in-composer.md).
 
 ### Round robin {#round-robin}
 
@@ -103,4 +103,4 @@ Within the winning rule, the representatives assigned to it are the eligible poo
 
 ## Next step {#next}
 
-With representatives set up and routing decided, add the capabilities to a concierge. See [Add live chat and meeting booking to a concierge](configure-in-composer.md).
+With representatives set up and routing decided, add the capabilities to a concierge. See [Activate Live Chat and Meeting booking](configure-in-composer.md).

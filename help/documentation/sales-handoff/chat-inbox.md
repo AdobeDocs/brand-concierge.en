@@ -1,5 +1,5 @@
 ---
-title: Handle Live Chats in the Chat Inbox
+title: Chat Inbox
 description: Learn how a sales representative receives, handles, scores, and ends a Brand Concierge live chat in the Adobe Marketo Qualifier chat inbox.
 role: User
 level: Beginner
@@ -13,7 +13,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Handle live chats in the chat inbox {#chat-inbox}
+# Chat inbox {#chat-inbox}
 
 When a visitor asks to speak to someone, the chat arrives in the **[!UICONTROL Chat inbox]** in [!DNL Adobe Marketo Qualifier]. This page is the representative's view of a live chat: what you see when it arrives, what context you get, and what you have to do before you can close it.
 

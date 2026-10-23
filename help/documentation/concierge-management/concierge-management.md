@@ -189,7 +189,7 @@ For the full procedure, see [Live chat and meeting booking](../sales-handoff/ove
 
 1. [Route conversations to representatives](../sales-handoff/routing-rules.md) — choose round robin, a direct agent, or custom routing rules.
 
-1. [Add live chat and meeting booking to a concierge](../sales-handoff/configure-in-composer.md) — connect the **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations, then activate the **[!UICONTROL Handoff to sales]** skill.
+1. [Activate Live Chat and Meeting booking](../sales-handoff/configure-in-composer.md) — connect the **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations, then activate the **[!UICONTROL Handoff to sales]** skill.
 
 1. Select **Simulate** to test the end-to-end experience. Enter a sample question and confirm that it routes to the correct skill and engagement flow.
 
