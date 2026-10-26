@@ -28,7 +28,6 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Your Pre-Go-Live Checklist and Rollout Plan](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
-  + [Meetings](../documentation/meetings.md)
   + [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
   + [Developer and customization guide](../documentation/developer-customization-guide.md)
   + [Voice conversation](../documentation/voice-conversation.md)
@@ -44,6 +43,14 @@ user-guide-description: Explore Adobe Brand Concierge
     + [Create and manage knowledge sources for Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge management {#concierge-management}
     + [Manage a concierge](../documentation/concierge-management/concierge-management.md)
+  + Live chat and meeting booking {#sales-handoff}
+    + [Overview](../documentation/sales-handoff/overview.md)
+    + [Set up representatives](../documentation/sales-handoff/representative-setup.md)
+    + [Route conversations to representatives](../documentation/sales-handoff/routing-rules.md)
+    + [Activate Live Chat and Meeting booking](../documentation/sales-handoff/configure-in-composer.md)
+    + [Chat inbox](../documentation/sales-handoff/chat-inbox.md)
+    + [Brand Concierge data in Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
+    + [Monitor meetings and live chats](../documentation/sales-handoff/monitor.md)
   + Evaluation {#evaluation}
     + [Evaluate a concierge](../documentation/evaluation/evaluation.md)
   + Deployment {#deployment}

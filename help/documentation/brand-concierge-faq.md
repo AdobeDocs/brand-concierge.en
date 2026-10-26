@@ -144,7 +144,7 @@ All testing happens before you deploy to customers.
 
 ### Can customers schedule meetings with our team?
 
-Yes, customers can schedule meetings with your team using the Meeting Booking skill. To enable this feature, activate the skill in Skills Configuration, define activation intents (such as "speak with sales"), connect your calendar or scheduling system, and set your availability and meeting types. Once configured, customers can request meetings during conversations, and Brand Concierge will facilitate the scheduling process without requiring them to leave the chat.
+Yes. Customers can schedule meetings with your team, or start a live chat with a representative, using the **Handoff to sales** skill with the **Meeting Booking** and **Live Chat** integrations. Representatives connect their calendar and set their availability in Adobe Marketo Qualifier, you choose how visitors are routed to them, and then you activate the skill in Composer and define the intents that trigger it. Once configured, customers can request a meeting or a live chat during a conversation without leaving the chat. See [Live chat and meeting booking](sales-handoff/overview.md).
 
 ### How are the initial Q&A pairs in my knowledge base generated?
 

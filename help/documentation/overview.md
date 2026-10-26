@@ -120,7 +120,7 @@ For the full set of knowledge source types and troubleshooting steps, see [Creat
 
 Skills determine what a concierge can do for visitors, such as **Product Advisory** for product recommendations or **Site Advisory** for general brand questions. Select **[!UICONTROL Browse Skills]** to view the available skill catalog and turn on the skills your concierge needs.
 
-* **Skill catalog:** Choose from available skills, such as Site Advisory, Product Advisory, and skills that support meeting booking or live chat with a sales representative.
+* **Skill catalog:** Choose from available skills, such as Site Advisory, Product Advisory, and [Handoff to sales](sales-handoff/overview.md), which offers visitors a live chat or a meeting with a sales representative.
 * **Configuration:** For each skill, set its name, description, and the intents (trigger phrases or topics) that should invoke it.
 * **Integrations:** Attach the integration a skill needs to do its job, or select **[!UICONTROL Use recommended]** to have Composer select one automatically.
 * **Preview:** Test changes immediately in the live preview.
