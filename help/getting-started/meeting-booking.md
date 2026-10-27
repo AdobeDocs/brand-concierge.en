@@ -30,7 +30,7 @@ topic_v2:
 ---
 # Book a meeting
 
-Learn about the booking a meeting capability found in Adobe Brand Concierge. In this video tutorial topics covered are what the customer facing experience can look like, admin configuration for connecting a calendar, and a look at some dashboards and reports.
+Learn about the meeting booking capability in Adobe Brand Concierge. In this video tutorial, the topics covered are what the customer-facing experience can look like, admin configuration for connecting a calendar, and a look at some dashboards and reports.
 
 ## Who is this video for?
 

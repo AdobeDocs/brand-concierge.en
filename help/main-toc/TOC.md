@@ -47,7 +47,7 @@ user-guide-description: Explore Adobe Brand Concierge
     + [Overview](../documentation/sales-handoff/overview.md)
     + [Set up representatives](../documentation/sales-handoff/representative-setup.md)
     + [Route conversations to representatives](../documentation/sales-handoff/routing-rules.md)
-    + [Activate Live Chat and Meeting booking](../documentation/sales-handoff/configure-in-composer.md)
+    + [Activate live chat and meeting booking](../documentation/sales-handoff/configure-in-composer.md)
     + [Chat inbox](../documentation/sales-handoff/chat-inbox.md)
     + [Brand Concierge data in Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
     + [Monitor meetings and live chats](../documentation/sales-handoff/monitor.md)

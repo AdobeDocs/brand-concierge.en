@@ -29,13 +29,13 @@ You pick a routing type separately for the **[!UICONTROL Meeting Booking]** inte
 | **[!UICONTROL Direct agent]** | One representative you name | No |
 | **[!UICONTROL Custom routing]** | The representatives assigned to the highest-priority routing rule the visitor qualifies for | Yes |
 
-Round robin is available by default and needs no configuration. You set the routing type on the integration itself. See [Activate Live Chat and Meeting booking](configure-in-composer.md).
+Round robin is available by default and needs no configuration. You set the routing type on the integration itself. See [Activate live chat and meeting booking](configure-in-composer.md).
 
 ### Round robin {#round-robin}
 
 Round robin behaves differently for meetings than for chats, because the two have different goals.
 
-**For meeting booking**, round robin distributes meetings evenly. The first eligible representative who has connected a calendar is offered first. Once a meeting is booked with them, they are taken out of the pool and the next representative is offered. With five representatives, the first five meetings go to five different people. After everyone has received one, the pool resets and the cycle starts again.
+For meeting booking, round robin distributes meetings evenly. The first eligible representative who has connected a calendar is offered first. Once a meeting is booked with them, they are taken out of the pool and the next representative is offered. With five representatives, the first five meetings go to five different people. After everyone has received one, the pool resets and the cycle starts again.
 
 The pool also resets every 24 hours, so that each day's meetings are distributed evenly.
 
@@ -43,7 +43,7 @@ The pool also resets every 24 hours, so that each day's meetings are distributed
 >
 >The 24-hour round robin reset runs on UTC, not on the representative's local time zone.
 
-**For live chat**, there is no sequential rotation. Every eligible representative is notified of the incoming chat at the same time, and the first one to accept takes the conversation.
+For live chat, there is no sequential rotation. Every eligible representative is notified of the incoming chat at the same time, and the first one to accept takes the conversation.
 
 ### Direct agent {#direct-agent}
 
@@ -53,9 +53,9 @@ Every meeting or chat from this concierge goes to the single representative you 
 
 Custom routing evaluates the rules you build in [!DNL Adobe Marketo Qualifier] against the visitor's [!DNL Marketo] lead and company attributes. Use it when the right representative depends on something you know about the visitor, such as:
 
-* **Geography** — visitors from a set of countries go to the regional team.
-* **Product interest** — visitors interested in a specific product go to that product's specialists.
-* **Business unit, company size, or industry** — any combination of lead and company attributes.
+* Geography: visitors from a set of countries go to the regional team.
+* Product interest: visitors interested in a specific product go to that product's specialists.
+* Business unit, company size, or industry: any combination of lead and company attributes.
 
 >[!IMPORTANT]
 >
@@ -99,8 +99,8 @@ When that happens, only the highest-priority matching rule is applied, and the c
 >
 >A lower number means a higher priority. A rule with priority 1 wins over a rule with priority 2. The person who creates a rule sets its priority.
 
-Within the winning rule, the representatives assigned to it are the eligible pool, and the round robin and all-agent behavior described above applies to that pool.
+Within the winning rule, the representatives assigned to it are the eligible pool, and the round robin behavior for meetings and the notify-everyone behavior for chats, both described above, apply to that pool.
 
 ## Next step {#next}
 
-With representatives set up and routing decided, add the capabilities to a concierge. See [Activate Live Chat and Meeting booking](configure-in-composer.md).
+With representatives set up and routing decided, add the capabilities to a concierge. See [Activate live chat and meeting booking](configure-in-composer.md).
