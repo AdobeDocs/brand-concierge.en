@@ -17,7 +17,7 @@ level_v2:
 
 When a visitor asks to speak to someone, the chat arrives in the **[!UICONTROL Chat inbox]** in [!DNL Adobe Marketo Qualifier]. This page is the representative's view of a live chat: what you see when it arrives, what context you get, and what you have to do before you can close it.
 
-To open it, in the left panel under **[!UICONTROL Activities]**, select **[!UICONTROL Chat inbox]**.
+To open the chat inbox, in the left panel under **[!UICONTROL Activities]**, select **[!UICONTROL Chat inbox]**.
 
 ## Receive a chat {#receive}
 

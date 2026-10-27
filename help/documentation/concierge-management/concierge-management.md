@@ -73,8 +73,8 @@ Select **Browse Integrations** to view the available integration catalog.
 | Content AI Search | Searches AEM Sites content | Relevant for customers of AEM Sites as a Cloud Service |
 | Entity Linking | Resolves product or brand mentions in a visitor's message to specific catalog entities | Supporting integration, typically used alongside a search integration rather than alone |
 | Commerce MCP | Connects to a live Adobe Commerce catalog for product search, product details, and comparisons | Not enabled by default; requires codes or keys from the commerce or IT team |
-| Meeting Booking | Allows visitors to book a meeting with a sales representative | Requires setup with a sales representative's calendar. See [Live chat and meeting booking](../sales-handoff/overview.md) |
-| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability. See [Live chat and meeting booking](../sales-handoff/overview.md) |
+| Meeting Booking | Allows visitors to book a meeting with a sales representative | Requires setup with a sales representative's calendar. See [Live chat and meeting booking](../sales-handoff/overview.md). |
+| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability. See [Live chat and meeting booking](../sales-handoff/overview.md). |
 
 ### Turn on and configure an integration
 
@@ -189,7 +189,7 @@ For the full procedure, see [Live chat and meeting booking](../sales-handoff/ove
 
 1. [Route conversations to representatives](../sales-handoff/routing-rules.md) — choose round robin, a direct agent, or custom routing rules.
 
-1. [Activate Live Chat and Meeting booking](../sales-handoff/configure-in-composer.md) — connect the **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations, then activate the **[!UICONTROL Handoff to sales]** skill.
+1. [Activate live chat and meeting booking](../sales-handoff/configure-in-composer.md) — connect the **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations, then activate the **[!UICONTROL Handoff to sales]** skill.
 
 1. Select **Simulate** to test the end-to-end experience. Enter a sample question and confirm that it routes to the correct skill and engagement flow.
 

@@ -17,7 +17,7 @@ level_v2:
 ---
 # Monitor meetings and live chats {#monitor}
 
-[!DNL Adobe Marketo Qualifier] keeps the operational record of every handoff: the meetings that were booked, the chats that were held, and how the team is performing against them.
+[!DNL Adobe Marketo Qualifier] keeps the operational record of every handoff: the meetings that were booked, the chats that were held, and how meeting bookings are performing.
 
 ## Review booked meetings {#bookings}
 
@@ -35,9 +35,9 @@ Under **[!UICONTROL Activities]**, select **[!UICONTROL Chat inbox]**, and then 
 
 ## Analyze meeting performance {#performance}
 
-Under **[!UICONTROL Analytics]**, select **[!UICONTROL Meeting performance]** to review several analytics categories, including how many visitors requested meetings and how many were missed. You can also see the trend of meetings over time and which representatives took them.
+Under **[!UICONTROL Analytics]**, select **[!UICONTROL Meeting performance]** to see how many meetings visitors requested, how many were booked, and how many were missed. You can also see daily, weekly, and monthly trends, the percentage of requested meetings that were booked, and which representatives took the most meetings.
 
-![Meeting performance dashboard](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Meeting performance dashboard showing the total meetings requested, booked, and missed, followed by daily charts of missed meetings and the percentage of requests that were booked](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Analyze concierge engagement in Marketo Engage {#marketo}
 

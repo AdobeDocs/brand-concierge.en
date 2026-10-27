@@ -24,7 +24,7 @@ All features are generally available unless indicated otherwise.
 
 ## September 2026 {#september-2026}
 
-* **Live Chat and Meeting Booking in Composer 2.0**: Live Chat and Meeting Booking are available as built-in integrations in Composer's Browse Integrations panel, and the new Handoff to sales skill decides when to offer them based on visitor intent. See [Activate Live Chat and Meeting booking](../documentation/sales-handoff/configure-in-composer.md).
+* **Live Chat and Meeting Booking in Composer 2.0**: Live Chat and Meeting Booking are available as built-in integrations in Composer's Browse integrations panel, and the new Handoff to sales skill determines when to offer them based on visitor intent. See [Activate live chat and meeting booking](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Custom Routing Rules**: Build routing rules on Marketo lead and company attributes to send visitors to the right representative, using multiple condition groups combined with AND and OR, prioritized rules, and multiple assigned representatives. Custom routing applies to both meeting booking and live chat. See [Route conversations to representatives](../documentation/sales-handoff/routing-rules.md).
 

@@ -20,8 +20,8 @@ level_v2:
 
 A concierge answers most questions on its own. Some conversations need a person: a pricing negotiation, a procurement questionnaire, a demo request. Live chat and meeting booking are the two ways Brand Concierge hands that conversation to a human without losing the context the visitor already provided.
 
-* **Live chat** connects the visitor to an available representative immediately, in the same chat window.
-* **Meeting booking** offers the visitor real open slots from a representative's calendar and books the meeting.
+* Live chat connects the visitor to an available representative immediately, in the same chat window.
+* Meeting booking offers the visitor real open slots from a representative's calendar and books the meeting.
 
 Both are offered by the same skill, **[!UICONTROL Handoff to sales]**, and both route through [!DNL Adobe Marketo Qualifier] (formerly [!DNL Sales Qualifier]), where your representatives connect their calendars, set their availability, and take chats.
 
@@ -36,7 +36,7 @@ Four pieces have to line up before a visitor can reach a person.
 | Integrations | **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** give the concierge the ability to check availability, start a chat, and book a slot | Composer > **[!UICONTROL Browse integrations]** |
 | Skill | **[!UICONTROL Handoff to sales]** decides *when* to offer a handoff, based on the visitor's intent | Composer > **[!UICONTROL Browse skills]** |
 
-At runtime: the visitor says something that matches one of the skill's **[!UICONTROL Use when]** conditions, the skill fires, it calls whichever integrations are attached to it, routing resolves a representative, and the visitor is offered a chat, a meeting, or both.
+At runtime, the visitor says something that matches one of the skill's **[!UICONTROL Use when]** conditions. The skill fires and calls whichever integrations are attached to it. Routing then resolves a representative, and the visitor is offered a chat, a meeting, or both.
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ If the visitor chooses to book a meeting, the concierge shows a calendar with th
 
 ![Book a meeting card in the conversation showing a month calendar and a list of available time slots](../assets/sales-handoff-visitor-3.png){width="800" zoomable="yes"}
 
-After the visitor confirms a slot, the representative's confirmation email is sent, optionally including a [!DNL Microsoft Teams] link. The conversation context goes to the representative with the invitation.
+After the visitor confirms a slot, the visitor receives the representative's confirmation email, which optionally includes a [!DNL Microsoft Teams] link. The conversation context goes to the representative with the invitation.
 
 ## What you need before you start {#prerequisites}
 
@@ -85,7 +85,7 @@ Work through these in order.
 
 1. [Set up representatives in Adobe Marketo Qualifier](representative-setup.md) — connect a calendar, define the confirmation email, and set calendar and live chat availability.
 1. [Route conversations to representatives](routing-rules.md) — choose round robin, a direct agent, or custom rules built on [!DNL Marketo] attributes.
-1. [Activate Live Chat and Meeting booking](configure-in-composer.md) — connect the two integrations and activate the **[!UICONTROL Handoff to sales]** skill.
+1. [Activate live chat and meeting booking](configure-in-composer.md) — connect the two integrations and activate the **[!UICONTROL Handoff to sales]** skill.
 1. [Chat inbox](chat-inbox.md) — what representatives do once a chat arrives, including scoring the conversation.
 1. [Brand Concierge data in Marketo Engage](marketo-activities.md) — the lead fields and activity types written back to [!DNL Marketo], and how to use them in Smart Campaigns.
 1. [Monitor meetings and live chats](monitor.md) — the bookings list and the performance dashboard.

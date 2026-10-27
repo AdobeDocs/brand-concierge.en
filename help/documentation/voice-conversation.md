@@ -62,3 +62,7 @@ Voice does not limit the concierge to audio. During a voice conversation, the co
 1. In the **Design** tab, select **Voice**.
 
 1. In the _Voice_ panel, disable the options you want to turn off, and then select **Save**.
+
+## Video demo
+
+To see voice conversations in action, check out the [video demo](/help/getting-started/voice-conversation.md).

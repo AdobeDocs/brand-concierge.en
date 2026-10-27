@@ -77,8 +77,8 @@ Below are the integrations shown in Composer's **Browse integrations** panel.
 | Content AI Search | Searches the brand's content via Content AI | An alternative content source; typically only one of Knowledge Base Search or Content AI Search is required at a time |
 | Entity Linking | Resolves product or brand mentions in a user's message to specific catalog entities | Supporting integration, used alongside a search integration rather than alone |
 | Commerce MCP | Adobe-managed Commerce MCP server: product search, details, variants, and facet/attribute discovery, backed by Adobe Live Search | Not in the baseline; added manually for Commerce use cases |
-| Meeting Booking | Lets visitors book a meeting with a sales representative | Requires setup with a sales representative's calendar, through the companion [!DNL Adobe Marketo Qualifier] product. See [Live chat and meeting booking](sales-handoff/overview.md) |
-| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability, through the companion [!DNL Adobe Marketo Qualifier] product. See [Live chat and meeting booking](sales-handoff/overview.md) |
+| Meeting Booking | Lets visitors book a meeting with a sales representative | Requires setup with a sales representative's calendar, through the companion [!DNL Adobe Marketo Qualifier] product. See [Live chat and meeting booking](sales-handoff/overview.md). |
+| Live Chat | Connects visitors with a live sales representative | Requires setup with a sales representative's availability, through the companion [!DNL Adobe Marketo Qualifier] product. See [Live chat and meeting booking](sales-handoff/overview.md). |
 
 ![Browse integrations panel showing four integration cards: Content AI Search, Entity Linking, Knowledge Base Search, and Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -92,7 +92,7 @@ Below are the skills shown in Composer's **Browse skills** panel. Each one lists
 | Product Advisory | Discover and research products: name-based product cards and prose product questions | Knowledge Base Search, Entity Linking |
 | Adobe Commerce Catalog Discovery | Search, browse, filter, and get full details on products against a live catalog | Commerce MCP tools: Search Commerce Products, Product Details, Product Variants, Product Facets, and Searchable Attributes |
 | Adobe Commerce Product Comparison | Side-by-side comparison of two or more named products in a table for Commerce | Commerce MCP tools: Search Commerce Products, Product Details |
-| Handoff to sales | Connects visitors with a company consultant via the available tools: suggests and facilitates a live chat or a meeting booking. See [Activate Live Chat and Meeting booking](sales-handoff/configure-in-composer.md) | Live Chat, Meeting Booking |
+| Handoff to sales | Connects visitors with a sales representative through a live chat or a meeting booking, depending on visitor intent. See [Activate live chat and meeting booking](sales-handoff/configure-in-composer.md). | Live Chat, Meeting Booking |
 
 The two commerce skills are catalog-only capabilities and depend on the Commerce MCP integration, which is not part of the baseline. In a non-commerce concierge, Site Advisory and Product Advisory run against the auto-created Knowledge Base Search instead.
 

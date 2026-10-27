@@ -31,7 +31,7 @@ Representatives complete the remaining steps themselves.
 
 The calendar connection is what makes real availability visible to a concierge. Without it, the representative is not eligible for meeting booking.
 
-1. Log in to [Adobe Experience Cloud](https://experience.adobe.com/){target="_blank"} and select **[!UICONTROL Adobe Marketo Qualifier]**.
+1. Sign in to [Adobe Experience Cloud](https://experience.adobe.com/){target="_blank"} and select **[!UICONTROL Adobe Marketo Qualifier]**.
 
    ![Adobe Experience Cloud homepage with the Adobe Marketo Qualifier card](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
@@ -45,7 +45,7 @@ The calendar connection is what makes real availability visible to a concierge. 
 
    ![Microsoft account picker shown during the calendar connection](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. Review the confirmation email that is sent to a visitor when they book a meeting with you.
+1. Review the confirmation email that a visitor receives when they book a meeting with you.
 
    A default subject line and body are set for you. Edit either one, and choose whether to include a [!DNL Microsoft Teams] meeting link in the invitation.
 
@@ -108,7 +108,7 @@ Live chat availability is separate from calendar availability. A representative 
 
 ## Review who is set up {#manage-members}
 
-**Administrators only.** Under **[!UICONTROL Administration]**, select **[!UICONTROL Manage members]** to see the state of every representative in one place: who has connected a calendar, who has set live chat availability, and who has disconnected a calendar.
+This section is for administrators only. Under **[!UICONTROL Administration]**, select **[!UICONTROL Manage members]** to see the state of every representative in one place: who has connected a calendar, who has set live chat availability, and who has disconnected a calendar.
 
 Use this before activating the integrations in Composer. A representative who appears here without a connected calendar is not eligible for meeting booking, and one without live chat availability is not eligible for live chat.
 

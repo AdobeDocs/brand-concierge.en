@@ -29,7 +29,7 @@ Learn how Brand Concierge closes the loop between your website and Marketo Engag
 ## Video content
 
 * How visitor conversations flow from Brand Concierge into Marketo — from in-chat lead capture and meeting booking to automatic lead creation
-* The native "Scheduled Meeting in Concierge" activity type logged in the lead's Activity Log, with full context: meeting duration, sales step, routing type, and booking status
+* The native "Schedule Meeting in Concierge" activity type logged in the lead's Activity Log, with full context: meeting duration, sales step, routing type, and booking status
 * How to use Brand Concierge activity types in Marketo Smart Campaigns — as triggers, filters, or batch campaign data
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)

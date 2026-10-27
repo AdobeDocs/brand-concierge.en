@@ -15,7 +15,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Activate Live Chat and Meeting booking {#configure-in-composer}
+# Activate live chat and meeting booking {#configure-in-composer}
 
 Two things have to be in place in Composer. The **[!UICONTROL Meeting Booking]** and **[!UICONTROL Live Chat]** integrations give the concierge the *ability* to check availability, start a chat, and book a slot. The **[!UICONTROL Handoff to sales]** skill tells it *when* to use that ability.
 
@@ -23,7 +23,7 @@ Two things have to be in place in Composer. The **[!UICONTROL Meeting Booking]**
 >
 >Complete [Set up representatives in Adobe Marketo Qualifier](representative-setup.md) first. The integrations check for connected calendars and live chat availability, and will not activate without them.
 
-## Connect the Meeting Booking integration {#connect-meeting-booking}
+## Connect the meeting booking integration {#connect-meeting-booking}
 
 1. In Composer, open your concierge and select **[!UICONTROL Integrations]** > **[!UICONTROL Browse integrations]**.
 
@@ -50,7 +50,7 @@ Two things have to be in place in Composer. The **[!UICONTROL Meeting Booking]**
 
 1. Select **[!UICONTROL Connect]**.
 
-## Connect the Live Chat integration {#connect-live-chat}
+## Connect the live chat integration {#connect-live-chat}
 
 1. In **[!UICONTROL Browse integrations]**, select **[!UICONTROL Live Chat]**, and then select **[!UICONTROL Configure]**.
 
@@ -96,7 +96,7 @@ The integrations are now connected, but the concierge still needs to know when t
    | Competitive Comparison | Comparing your solutions with competitor alternatives, differentiation, or migration from a competitor platform |
    | Trial and POC Access | Trial setups, playground access, proofs of concept, or pilots |
    | Contract and Licensing Changes | Contract renewals, term extensions, or plan upgrades |
-   | Procurement RFP or RFI | Submissions, responses, vendor questionnaires, procurement forms, or compliance documentation |
+   | Procurement RFP or RFI | RFP or RFI submissions and responses, vendor questionnaires, procurement forms, or compliance documentation |
    | Demos | Product demonstrations or walkthroughs |
 
    Select **[!UICONTROL Add condition]** to add an intent of your own, or delete any condition that does not apply to your business.
@@ -119,6 +119,6 @@ Open the preview and ask the concierge something that matches one of the **[!UIC
 
 When the behavior is right, publish your concierge to make the handoff live on your site.
 
-## Next step {#next}
+## Next steps {#next-steps}
 
-Your representatives can now receive chats. See [Chat inbox](chat-inbox.md).
+Your representatives can now receive chats and meeting bookings. To learn how representatives handle a chat, see [Chat inbox](chat-inbox.md).
