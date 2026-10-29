@@ -26,6 +26,8 @@ user-guide-description: Explore Adobe Brand Concierge
   + [Measuring quality and setting guardrails](../go-live/measuring-quality-and-setting-guardrails.md)
   + [Technical setup and optional features](../go-live/technical-setup-and-optional-features.md)
   + [Your Pre-Go-Live Checklist and Rollout Plan](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
++ Live Chat and Meeting Booking {#live-chat-and-meeting-booking}
+  + [Live chat and meeting booking: The end-to-end experience](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
   + [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
