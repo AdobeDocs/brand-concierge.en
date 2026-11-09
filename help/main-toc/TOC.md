@@ -29,6 +29,7 @@ user-guide-description: Explore Adobe Brand Concierge
 + Live Chat and Meeting Booking {#live-chat-and-meeting-booking}
   + [Live chat and meeting booking: The end-to-end experience](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
   + [Set availability and routing for live chat and meetings](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
+  + [Configure live chat and meeting booking](../live-chat-meeting-booking/configure-live-chat-and-meeting-booking.md)
   + [Use Brand Concierge activities in Marketo](../live-chat-meeting-booking/use-brand-concierge-activities-in-marketo.md)
 + Documentation {#documentation}
   + [Brand Concierge help](../documentation/overview.md)
