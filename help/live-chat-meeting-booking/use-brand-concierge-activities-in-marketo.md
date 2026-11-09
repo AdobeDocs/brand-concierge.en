@@ -1,6 +1,6 @@
 ---
 title: Use Brand Concierge activities in Marketo
-description: Learn how Brand Concierge sends engagement data to Marketo and use activity filters and triggers in smart campaigns.
+description: Learn how Adobe Brand Concierge sends engagement data to Marketo Engage and use activity filters, triggers, and conversation scores in smart campaigns.
 topic: Integrations
 role: User
 level: Beginner
@@ -26,7 +26,7 @@ Learn how Adobe Brand Concierge sends person details and engagement activities t
 * Distinguish started meeting bookings from scheduled meetings
 * Review live chat status and representative-assigned conversation scores
 * Add Concierge activity filters and triggers to a smart campaign's `Smart List`
-* Narrow audiences with available activity constraints, such as status, dates, routing type, page URL, sales representative, and conversation score
+* Narrow audiences with activity constraints, such as status, dates, routing type, page URL, sales representative, and conversation score
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
 
