@@ -2,6 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explore Adobe Brand Concierge
+auto-video-transcripts: true
 ---
 
 # Adobe Brand Concierge {#content}
