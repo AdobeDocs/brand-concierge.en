@@ -5,7 +5,7 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
 ---
@@ -28,3 +28,9 @@ Learn how Adobe Brand Concierge uses representative availability and routing rul
 >[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
 
 For documentation, see [Set up representatives](../documentation/sales-handoff/representative-setup.md) and [Route conversations to representatives](../documentation/sales-handoff/routing-rules.md).
+
+## Related tutorials
+
+* [Live chat and meeting booking: The end-to-end experience](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Configure live chat and meeting booking](configure-live-chat-and-meeting-booking.md)
+* [Use Brand Concierge activities in Marketo](use-brand-concierge-activities-in-marketo.md)

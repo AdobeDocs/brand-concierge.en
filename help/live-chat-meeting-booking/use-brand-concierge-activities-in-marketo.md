@@ -5,7 +5,7 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 276
+duration: 282
 last-substantial-update: 2026-11-06
 jira: KT-23062
 ---
@@ -29,3 +29,9 @@ Learn how Adobe Brand Concierge sends person details and engagement activities t
 * Narrow audiences with available activity constraints, such as status, dates, routing type, page URL, sales representative, and conversation score
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+
+## Related tutorials
+
+* [Live chat and meeting booking: The end-to-end experience](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Set availability and routing for live chat and meetings](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configure live chat and meeting booking](configure-live-chat-and-meeting-booking.md)

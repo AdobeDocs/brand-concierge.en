@@ -5,7 +5,7 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
 ---
@@ -29,3 +29,9 @@ Explore how Adobe Brand Concierge connects website visitors with representatives
 >[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
 For documentation, see [Live chat and meeting booking](../documentation/sales-handoff/overview.md).
+
+## Related tutorials
+
+* [Set availability and routing for live chat and meetings](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configure live chat and meeting booking](configure-live-chat-and-meeting-booking.md)
+* [Use Brand Concierge activities in Marketo](use-brand-concierge-activities-in-marketo.md)
